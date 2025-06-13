@@ -3276,6 +3276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-13 22:43:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3414,6 +3420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-13 22:45:01 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/light_blue_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
@@ -3507,6 +3519,12 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 22:45:30 +0000"
     },
     "done": true
   },
@@ -3636,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-13 22:43:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3663,6 +3687,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-13 22:46:55 +0000"
     },
     "done": true
   },
@@ -3756,6 +3786,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-06-13 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-06-13 22:46:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3834,9 +3876,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-13 22:51:15 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-06-13 22:46:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-13 22:46:55 +0000"
     },
     "done": true
   },
@@ -3861,6 +3921,12 @@
   "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-13 22:46:55 +0000"
     },
     "done": true
   },
@@ -3921,6 +3987,12 @@
   "projecte:recipes/tools/blue_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-13 22:51:15 +0000"
     },
     "done": true
   },
@@ -4038,6 +4110,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-13 22:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-13 22:34:04 +0000"
@@ -4065,6 +4143,12 @@
   "projecte:recipes/tools/repair_talisman_alt": {
     "criteria": {
       "has_covalence_dust": "2025-06-13 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-13 22:46:55 +0000"
     },
     "done": true
   },
@@ -4131,6 +4215,12 @@
   "buildinggadgets2:recipes/misc/gadget_copy_paste": {
     "criteria": {
       "has_emerald": "2025-06-13 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-06-13 22:43:01 +0000"
     },
     "done": true
   },
