@@ -3324,6 +3324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-06-13 21:56:28 +0000"
@@ -3360,6 +3366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-06-13 22:27:43 +0000"
@@ -3375,6 +3387,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-13 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
     },
     "done": true
   },
@@ -3432,6 +3450,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-06-13 22:34:05 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/gray_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
@@ -3444,9 +3468,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-13 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
     },
     "done": true
   },
@@ -3489,6 +3525,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-13 22:11:33 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
     },
     "done": true
   },
@@ -3564,6 +3606,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
@@ -3573,6 +3621,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-06-13 21:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-13 22:34:12 +0000"
     },
     "done": true
   },
@@ -3606,6 +3660,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
@@ -3627,6 +3687,12 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
     },
     "done": true
   },
@@ -3654,6 +3720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
@@ -3675,6 +3747,12 @@
   "projecte:recipes/misc/medium_covalence_dust": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-13 22:33:59 +0000"
     },
     "done": true
   },
@@ -3723,6 +3801,18 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-06-13 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-06-13 22:34:05 +0000"
     },
     "done": true
   },
@@ -3804,6 +3894,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-06-13 22:34:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
@@ -3843,6 +3939,18 @@
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 22:34:01 +0000"
     },
     "done": true
   },
@@ -3930,9 +4038,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-13 22:34:00 +0000"
     },
     "done": true
   },
@@ -3996,6 +4122,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-06-13 22:33:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
@@ -4005,6 +4143,12 @@
   "projecte:recipes/tools/divining_rod_1": {
     "criteria": {
       "has_covalence_dust": "2025-06-13 22:07:01 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2025-06-13 22:34:04 +0000"
     },
     "done": true
   },

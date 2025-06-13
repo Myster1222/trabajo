@@ -3556,6 +3556,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-13 22:33:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-13 22:23:44 +0000"
