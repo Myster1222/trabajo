@@ -3617,73 +3617,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:31:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
     },
     "done": false
   },
@@ -3891,6 +3891,12 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/dark_matter": {
+    "criteria": {
+      "has_aeternalis": "2025-06-13 23:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-13 23:12:30 +0000"
@@ -3909,6 +3915,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-06-13 23:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-13 23:05:00 +0000"
@@ -3921,9 +3933,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-13 23:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-13 23:03:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-06-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2025-06-13 23:41:17 +0000"
     },
     "done": true
   },
@@ -3981,6 +4011,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2025-06-13 23:41:17 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-06-13 23:12:30 +0000"
@@ -4002,6 +4038,12 @@
   "tconstruct:recipes/redstone/smeltery/scorched/duct": {
     "criteria": {
       "has_item": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/aeternalis_fuel_block": {
+    "criteria": {
+      "has_aeternalis_fuel": "2025-06-13 23:40:43 +0000"
     },
     "done": true
   },
@@ -4038,6 +4080,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-13 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-13 23:41:17 +0000"
     },
     "done": true
   },

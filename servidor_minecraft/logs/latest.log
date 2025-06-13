@@ -2149,3 +2149,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [13Jun2025 23:17:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> afk
 [13Jun2025 23:22:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13Jun2025 23:22:20.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[13Jun2025 23:43:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito tried to swim in lava
+[13Jun2025 23:44:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Power flowers!]
