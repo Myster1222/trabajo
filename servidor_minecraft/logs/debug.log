@@ -17364,3 +17364,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [13Jun2025 23:21:31.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jun2025 23:22:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13Jun2025 23:22:20.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[13Jun2025 23:26:31.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 23:26:31.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 23:31:31.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 23:31:31.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

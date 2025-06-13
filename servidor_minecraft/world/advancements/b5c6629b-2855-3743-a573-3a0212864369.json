@@ -4253,73 +4253,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:31:14 +0000"
     },
     "done": false
   },
@@ -4329,9 +4329,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-13 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4360,9 +4372,21 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_flower": "2025-06-13 23:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-13 23:26:57 +0000"
     },
     "done": true
   },
@@ -4372,9 +4396,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/alchemical_coal": {
     "criteria": {
       "has_coal": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4384,9 +4426,27 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-13 23:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4396,15 +4456,69 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-13 23:26:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
     },
     "done": true
   },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4420,6 +4534,24 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/conversions/iron_ingot_to_ender_pearl": {
     "criteria": {
       "has_iron_ingot": "2025-06-13 23:14:18 +0000"
@@ -4432,15 +4564,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-06-13 23:06:28 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/gauge": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_item": "2025-06-13 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4453,6 +4603,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-13 23:06:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4489,6 +4645,18 @@
   "biomesoplenty:recipes/building_blocks/hellbark_slab": {
     "criteria": {
       "has_planks": "2025-06-13 23:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-13 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4540,6 +4708,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
@@ -4552,9 +4738,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-13 23:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-13 23:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-13 23:26:57 +0000"
     },
     "done": true
   },
@@ -4570,9 +4768,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-06-13 23:27:00 +0000"
     },
     "done": true
   },
@@ -4582,15 +4792,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
     },
     "done": true
   },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-13 23:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-13 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fluid_cannon": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-06-13 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-13 23:26:10 +0000"
     },
     "done": true
   },
@@ -4618,9 +4864,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-13 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-06-13 23:26:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2025-06-13 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-13 23:30:40 +0000"
     },
     "done": true
   },
@@ -4648,6 +4912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-13 23:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-06-13 23:03:34 +0000"
@@ -4663,6 +4933,12 @@
   "projecte:recipes/decorations/interdiction_torch": {
     "criteria": {
       "has_philo_stone": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-13 23:31:22 +0000"
     },
     "done": true
   },
