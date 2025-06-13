@@ -2197,87 +2197,51 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_cod": "2025-06-13 06:43:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_any_ingredient": "2025-06-13 06:43:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_cod": "2025-06-13 06:43:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_cod": "2025-06-13 06:43:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_chainmail_boots": "2025-06-13 06:44:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_chainmail_boots": "2025-06-13 06:44:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
+      "has_the_recipe": "2025-06-13 06:45:56 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 06:54:07 +0000"
-    },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:51:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-06-13 06:43:53 +0000"
     },
     "done": true
   },
@@ -2317,12 +2281,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_the_recipe": "2025-06-13 06:45:56 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:51:07 +0000"
@@ -2338,18 +2296,6 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:51:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-13 06:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_boots": "2025-06-13 06:44:02 +0000"
     },
     "done": true
   },
@@ -2392,24 +2338,6 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:51:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-06-13 06:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_chainmail_boots": "2025-06-13 06:44:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-06-13 06:43:53 +0000"
     },
     "done": true
   },
