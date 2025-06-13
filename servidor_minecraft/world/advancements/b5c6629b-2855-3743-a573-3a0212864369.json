@@ -202,6 +202,7 @@
       "apple": "2025-06-13 05:37:28 +0000",
       "cooked_cod": "2025-06-13 06:45:51 +0000",
       "mutton": "2025-06-13 05:41:06 +0000",
+      "bread": "2025-06-13 21:46:42 +0000",
       "rotten_flesh": "2025-06-13 07:04:17 +0000"
     },
     "done": false
@@ -3238,77 +3239,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "bettermcdonaldsmod:recipes/food/big_mac": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "bettermcdonaldsmod:recipes/food/filet_o_fish": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "deflected_projectile": "2025-06-13 21:46:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "bettermcdonaldsmod:recipes/food/hamburger": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "bettermcdonaldsmod:recipes/food/chickenburger": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "bettermcdonaldsmod:recipes/food/cheeseburger": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_oak_trapdoor": "2025-06-13 21:43:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "bettermcdonaldsmod:recipes/food/mcchicken": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "bettermcdonaldsmod:recipes/food/mcbacon": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_bread": "2025-06-13 21:46:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
+      "has_name_tag": "2025-06-13 21:45:28 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-13 21:41:15 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
