@@ -881,6 +881,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-13 23:43:56 +0000",
       "cooked_mutton": "2025-06-13 05:42:48 +0000",
       "cooked_beef": "2025-06-13 06:49:56 +0000",
       "cooked_cod": "2025-06-13 06:45:43 +0000",
@@ -1669,6 +1670,7 @@
       "shrubland": "2025-06-13 06:04:59 +0000",
       "rocky_shrubland": "2025-06-13 21:41:19 +0000",
       "clover_patch": "2025-06-13 22:45:35 +0000",
+      "orchard": "2025-06-13 23:50:15 +0000",
       "lavender_forest": "2025-06-13 05:59:12 +0000",
       "spider_nest": "2025-06-13 06:04:43 +0000",
       "grassland": "2025-06-13 22:44:12 +0000",
@@ -3617,73 +3619,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:41:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:51:15 +0000"
     },
     "done": false
   },
@@ -3735,6 +3737,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 23:44:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 23:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-13 23:12:30 +0000"
@@ -3756,6 +3776,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-06-13 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 23:44:07 +0000"
     },
     "done": true
   },
@@ -3789,6 +3815,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-13 23:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_flower": "2025-06-13 23:04:15 +0000"
@@ -3804,6 +3848,18 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-13 23:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-13 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
+    "criteria": {
+      "has_item": "2025-06-13 23:43:47 +0000"
     },
     "done": true
   },
@@ -3831,6 +3887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-06-13 23:05:05 +0000"
@@ -3840,6 +3902,18 @@
   "phantasm:recipes/building_blocks/polished_obsidian": {
     "criteria": {
       "has_obsidian": "2025-06-13 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-13 23:50:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-13 23:43:47 +0000"
     },
     "done": true
   },
@@ -3861,6 +3935,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-06-13 23:05:00 +0000"
@@ -3873,9 +3953,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-06-13 23:43:47 +0000"
     },
     "done": true
   },
@@ -3915,6 +4025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-06-13 23:41:17 +0000"
@@ -3927,9 +4043,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/gadgets/frame/gold": {
     "criteria": {
       "has_item": "2025-06-13 23:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-06-13 23:50:57 +0000"
     },
     "done": true
   },
@@ -3951,9 +4079,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-06-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-13 23:41:48 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/happy_meal": {
+    "criteria": {
+      "has_apple": "2025-06-13 23:50:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-13 23:44:07 +0000"
     },
     "done": true
   },
@@ -3987,6 +4151,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 23:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-13 23:04:49 +0000"
@@ -4014,6 +4184,12 @@
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-06-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-13 23:50:57 +0000"
     },
     "done": true
   },
@@ -4077,9 +4253,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-13 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-13 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-13 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-13 23:50:57 +0000"
     },
     "done": true
   },
@@ -4092,6 +4292,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-13 23:44:07 +0000"
     },
     "done": true
   },

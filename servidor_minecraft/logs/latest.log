@@ -2151,3 +2151,8 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [13Jun2025 23:22:20.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [13Jun2025 23:43:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito tried to swim in lava
 [13Jun2025 23:44:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Power flowers!]
+[13Jun2025 23:46:30.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito burned to death
+[13Jun2025 23:50:54.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Transmute this into that!]
+[13Jun2025 23:52:25.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[13Jun2025 23:54:51.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=103, z=-457} BlockPos{x=83, y=102, z=-456}
+[13Jun2025 23:55:28.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [The Parrots and the Bats]
