@@ -102,6 +102,7 @@
       "minecraft:dripstone_caves": "2025-06-13 06:49:59 +0000",
       "minecraft:forest": "2025-06-13 05:29:58 +0000",
       "minecraft:ocean": "2025-06-13 07:00:31 +0000",
+      "minecraft:deep_dark": "2025-06-13 22:16:22 +0000",
       "minecraft:plains": "2025-06-13 05:39:24 +0000"
     },
     "done": false
@@ -3281,6 +3282,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-06-13 22:11:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
@@ -3347,6 +3354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-13 22:30:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-13 22:27:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3380,6 +3399,12 @@
   "projecte:recipes/tools/light_blue_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/polished_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-06-13 22:11:33 +0000"
     },
     "done": true
   },
@@ -3461,6 +3486,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-13 22:11:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
@@ -3479,9 +3510,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-06-13 22:30:16 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-06-13 22:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-13 22:30:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-13 22:22:10 +0000"
     },
     "done": true
   },
@@ -3554,6 +3609,12 @@
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-13 22:27:43 +0000"
     },
     "done": true
   },
@@ -3677,6 +3738,12 @@
     },
     "done": true
   },
+  "projecte:recipes/decorations/condenser_mk2": {
+    "criteria": {
+      "has_previous": "2025-06-13 22:12:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3722,6 +3789,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "projecte:condenser": {
+    "criteria": {
+      "condenser": "2025-06-13 22:12:57 +0000"
     },
     "done": true
   },
@@ -3806,6 +3879,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "projecte:collector": {
+    "criteria": {
+      "collector": "2025-06-13 22:12:57 +0000"
     },
     "done": true
   },
@@ -3899,9 +3978,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-13 22:11:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-13 22:27:43 +0000"
     },
     "done": true
   },

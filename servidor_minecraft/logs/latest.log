@@ -1192,3 +1192,27 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [13Jun2025 22:14:35.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
 [13Jun2025 22:14:47.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
 [13Jun2025 22:14:47.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[13Jun2025 22:14:57.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[13Jun2025 22:14:58.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[13Jun2025 22:14:58.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[13Jun2025 22:15:15.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[13Jun2025 22:15:15.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[13Jun2025 22:15:15.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[13Jun2025 22:19:20.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:39323] logged in with entity id 9990 at (127.4413903693834, -53.0, -591.5734238070967)
+[13Jun2025 22:19:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[13Jun2025 22:19:23.503] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[13Jun2025 22:19:23.504] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[13Jun2025 22:19:33.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[13Jun2025 22:19:34.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[13Jun2025 22:19:34.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[13Jun2025 22:19:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Gave 1 [Totem of Undying] to ElSilverSito]
+[13Jun2025 22:20:43.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Postmortal]
+[13Jun2025 22:22:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[13Jun2025 22:22:59.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[13Jun2025 22:23:07.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[13Jun2025 22:31:26.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[13Jun2025 22:32:09.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set EMC value for create:raw_zinc to 125!]
+[13Jun2025 22:32:09.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Restart or use "/reload" when all changes are complete.]
+[13Jun2025 22:33:32.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Amateur Archaeologist]
+[13Jun2025 22:34:01.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Disme A Dozen]
+[13Jun2025 22:34:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Suit Up]
