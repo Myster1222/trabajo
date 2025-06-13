@@ -1163,3 +1163,20 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [13Jun2025 21:50:25.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
 [13Jun2025 21:50:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was slain by Zombie
 [13Jun2025 21:50:36.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by Zombie
+[13Jun2025 21:56:17.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Chest Slayer]
+[13Jun2025 21:56:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Amateur Archaeologist]
+[13Jun2025 21:56:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[13Jun2025 21:58:06.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b timed out
+[13Jun2025 21:58:06.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ElSilverSito
+[13Jun2025 21:58:06.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[13Jun2025 21:58:12.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Timed out
+[13Jun2025 21:58:12.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[13Jun2025 21:58:12.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[13Jun2025 21:58:12.853] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jun2025 21:58:32.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:43601] logged in with entity id 6174 at (17.14743231342235, 15.0, -528.7237634092287)
+[13Jun2025 21:58:32.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[13Jun2025 21:58:33.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[13Jun2025 21:58:33.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[13Jun2025 21:58:41.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[13Jun2025 21:58:42.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[13Jun2025 21:58:42.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
