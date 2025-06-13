@@ -4253,73 +4253,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:14 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:14 +0000"
     },
     "done": false
   },
@@ -4372,6 +4372,12 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/alchemical_coal": {
+    "criteria": {
+      "has_coal": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
@@ -4402,6 +4408,30 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/iron_ingot_to_ender_pearl": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_hellbark_planks": "2025-06-13 23:19:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-06-13 23:06:28 +0000"
@@ -4411,6 +4441,12 @@
   "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_item": "2025-06-13 23:08:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
     },
     "done": true
   },
@@ -4432,6 +4468,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-06-13 23:05:31 +0000"
@@ -4441,6 +4483,18 @@
   "projecte:recipes/tools/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-06-13 23:06:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
     },
     "done": true
   },
@@ -4456,9 +4510,21 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/diamond_to_emerald": {
+    "criteria": {
+      "has_diamond": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
     },
     "done": true
   },
@@ -4492,9 +4558,27 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/iron_ingot_to_gold_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-13 23:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-13 23:02:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/diamond_to_gold_ingot": {
+    "criteria": {
+      "has_diamond": "2025-06-13 23:14:18 +0000"
     },
     "done": true
   },
@@ -4516,15 +4600,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/emerald_to_diamond": {
+    "criteria": {
+      "has_emerald": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/coal_to_charcoal": {
+    "criteria": {
+      "has_coal": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2025-06-13 23:08:07 +0000"
     },
     "done": true
   },
+  "projecte:recipes/decorations/transmutation_table": {
+    "criteria": {
+      "has_philo_stone": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-13 23:06:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2025-06-13 23:19:18 +0000"
     },
     "done": true
   },
@@ -4537,6 +4651,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-06-13 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2025-06-13 23:13:45 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/interdiction_torch": {
+    "criteria": {
+      "has_philo_stone": "2025-06-13 23:14:18 +0000"
     },
     "done": true
   },

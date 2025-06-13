@@ -2146,3 +2146,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [13Jun2025 23:09:12.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo tried to swim in lava
 [13Jun2025 23:13:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
 [13Jun2025 23:14:18.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [An alchemist's best friend!]
+[13Jun2025 23:17:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> afk
+[13Jun2025 23:22:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jun2025 23:22:20.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]

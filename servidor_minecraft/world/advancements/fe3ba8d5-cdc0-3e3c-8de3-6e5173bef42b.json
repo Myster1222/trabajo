@@ -3617,73 +3617,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-13 23:11:15 +0000"
+      "log_spam_fixer": "2025-06-13 23:21:15 +0000"
     },
     "done": false
   },
@@ -3735,6 +3735,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-13 23:05:55 +0000"
@@ -3747,9 +3759,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-06-13 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
     },
     "done": true
   },
@@ -3777,6 +3813,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-13 23:05:05 +0000"
@@ -3792,6 +3840,12 @@
   "phantasm:recipes/building_blocks/polished_obsidian": {
     "criteria": {
       "has_obsidian": "2025-06-13 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
     },
     "done": true
   },
@@ -3819,15 +3873,39 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-13 23:01:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/building_blocks/obsidian": {
     "criteria": {
       "has_obsidian": "2025-06-13 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
     },
     "done": true
   },
@@ -3867,6 +3945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-13 23:05:05 +0000"
@@ -3897,9 +3981,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-06-13 23:04:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-06-13 23:12:30 +0000"
     },
     "done": true
   },
@@ -3921,6 +4023,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-06-13 23:05:05 +0000"
@@ -3933,6 +4041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-13 23:01:37 +0000"
@@ -3942,6 +4056,12 @@
   "buildinggadgets2:recipes/misc/gadget_copy_paste": {
     "criteria": {
       "has_emerald": "2025-06-13 23:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 23:12:30 +0000"
     },
     "done": true
   },
