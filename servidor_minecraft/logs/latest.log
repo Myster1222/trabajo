@@ -1180,3 +1180,15 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [13Jun2025 21:58:41.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
 [13Jun2025 21:58:42.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
 [13Jun2025 21:58:42.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[13Jun2025 22:04:54.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Diamonds!]
+[13Jun2025 22:08:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Storage Upgrade!]
+[13Jun2025 22:10:09.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[13Jun2025 22:10:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[13Jun2025 22:10:09.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[13Jun2025 22:11:33.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ice Bucket Challenge]
+[13Jun2025 22:12:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The power of the sun!]
+[13Jun2025 22:12:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Condense the world!]
+[13Jun2025 22:14:35.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:52193] logged in with entity id 9117 at (124.05277825227714, -53.0, -591.6424083854675)
+[13Jun2025 22:14:35.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[13Jun2025 22:14:47.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[13Jun2025 22:14:47.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito

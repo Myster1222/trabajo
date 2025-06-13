@@ -3287,9 +3287,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-13 21:59:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/black_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/lime_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
     },
     "done": true
   },
@@ -3317,6 +3341,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3326,6 +3356,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-13 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
@@ -3341,6 +3377,18 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/light_blue_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
@@ -3350,6 +3398,24 @@
   "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/gray_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
@@ -3377,6 +3443,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/repair_talisman": {
+    "criteria": {
+      "has_covalence_dust": "2025-06-13 22:08:02 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/cheeseburger": {
     "criteria": {
       "has_bread": "2025-06-13 21:46:28 +0000"
@@ -3395,9 +3473,39 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/green_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/white_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
@@ -3425,9 +3533,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-13 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
@@ -3443,9 +3569,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-13 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/red_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/purple_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/medium_covalence_dust": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
@@ -3473,9 +3641,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/yellow_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/condenser_mk1": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
     },
     "done": true
   },
@@ -3491,6 +3689,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/orange_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-13 21:58:00 +0000"
@@ -3500,6 +3710,12 @@
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/brown_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
     },
     "done": true
   },
@@ -3527,9 +3743,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/blue_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/alchemical_chest": {
+    "criteria": {
+      "has_covalence_dust": "2025-06-13 22:08:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-13 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/pink_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:alchemical_chest": {
+    "criteria": {
+      "alch_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/light_gray_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
     },
     "done": true
   },
@@ -3548,6 +3812,24 @@
   "bettermcdonaldsmod:recipes/food/mcchicken": {
     "criteria": {
       "has_bread": "2025-06-13 21:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/magenta_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
@@ -3575,6 +3857,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/repair_talisman_alt": {
+    "criteria": {
+      "has_covalence_dust": "2025-06-13 22:08:02 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-13 21:56:18 +0000"
@@ -3587,15 +3875,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-13 21:57:10 +0000"
     },
     "done": true
   },
+  "projecte:recipes/tools/cyan_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-06-13 22:08:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-06-13 21:45:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/divining_rod_1": {
+    "criteria": {
+      "has_covalence_dust": "2025-06-13 22:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-13 22:07:16 +0000"
     },
     "done": true
   },
