@@ -61,3 +61,27 @@
 [14Jun2025 00:22:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Enchanter]
 [14Jun2025 00:23:24.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/77308, l='ServerLevel[world]', x=103.26, y=-20.00, z=-205.26] died: Toxic Slime was killed
 [14Jun2025 00:25:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A block that Matters!]
+[14Jun2025 00:27:04.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/81811, l='ServerLevel[world]', x=244.74, y=-20.00, z=-171.74] died: Toxic Slime was killed
+[14Jun2025 00:27:08.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=94, z=-558} BlockPos{x=-187, y=93, z=-560}
+[14Jun2025 00:27:08.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=94, z=-558} BlockPos{x=-187, y=93, z=-560}
+[14Jun2025 00:27:08.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=96, z=-561} BlockPos{x=-187, y=93, z=-560}
+[14Jun2025 00:27:08.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=97, z=-561} BlockPos{x=-187, y=93, z=-560}
+[14Jun2025 00:27:08.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=97, z=-561} BlockPos{x=-187, y=93, z=-560}
+[14Jun2025 00:27:08.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=97, z=-561} BlockPos{x=-187, y=93, z=-560}
+[14Jun2025 00:27:09.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=102, z=-568} BlockPos{x=-194, y=99, z=-569}
+[14Jun2025 00:27:34.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo was kicked for floating too long!
+[14Jun2025 00:27:34.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Flying is not enabled on this server
+[14Jun2025 00:27:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[14Jun2025 00:27:34.994] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[14Jun2025 00:27:38.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/82847, l='ServerLevel[world]', x=246.98, y=-20.00, z=-77.31] died: Toxic Slime was killed
+[14Jun2025 00:27:47.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:59197] logged in with entity id 88436 at (-280.56659248198986, 121.637497002867, -732.0025478909273)
+[14Jun2025 00:27:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[14Jun2025 00:27:48.351] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[14Jun2025 00:27:48.351] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 00:28:02.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 00:28:03.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 00:28:03.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[14Jun2025 00:29:39.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/86938, l='ServerLevel[world]', x=250.24, y=-20.00, z=-104.74] died: Toxic Slime was killed
+[14Jun2025 00:29:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 00:31:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Enchanter]
+[14Jun2025 00:31:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Hidden in the Depths]
