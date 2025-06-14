@@ -39,3 +39,25 @@
 [14Jun2025 00:05:27.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/55152, l='ServerLevel[world]', x=86.09, y=-20.00, z=-208.45] died: Restless Spirit was killed
 [14Jun2025 00:12:09.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/57989, l='ServerLevel[world]', x=95.54, y=98.42, z=-107.46] died: Headless Warrior was slain by Piglin
 [14Jun2025 00:16:07.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [The Power of the Sun]
+[14Jun2025 00:16:27.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo was kicked for floating too long!
+[14Jun2025 00:16:27.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Flying is not enabled on this server
+[14Jun2025 00:16:27.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[14Jun2025 00:16:27.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[14Jun2025 00:16:45.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:53063] logged in with entity id 69434 at (222.7213914226897, 133.0953066496476, -892.8032088857503)
+[14Jun2025 00:16:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[14Jun2025 00:16:46.805] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[14Jun2025 00:16:46.806] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 00:17:01.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 00:17:02.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 00:17:02.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[14Jun2025 00:17:08.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[14Jun2025 00:18:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Strange Biomes]
+[14Jun2025 00:18:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Ancient Battlefield]
+[14Jun2025 00:18:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Who is Cutting Onions?]
+[14Jun2025 00:18:59.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69192, l='ServerLevel[world]', x=63.17, y=-20.00, z=-175.52] died: Toxic Slime was killed
+[14Jun2025 00:19:49.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Radioactive]
+[14Jun2025 00:20:53.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/75643, l='ServerLevel[world]', x=98.30, y=92.00, z=-126.66] died: Headless Warrior was shot by Piglin
+[14Jun2025 00:22:08.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/77920, l='ServerLevel[world]', x=121.58, y=89.00, z=-78.59] died: Headless Warrior was shot by Piglin
+[14Jun2025 00:22:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Enchanter]
+[14Jun2025 00:23:24.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/77308, l='ServerLevel[world]', x=103.26, y=-20.00, z=-205.26] died: Toxic Slime was killed
+[14Jun2025 00:25:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A block that Matters!]
