@@ -37,3 +37,5 @@
 [14Jun2025 00:02:36.954] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, -22], pos: MutableBlockPos{x=-174, y=156, z=-351}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
 [14Jun2025 00:03:37.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
 [14Jun2025 00:05:27.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/55152, l='ServerLevel[world]', x=86.09, y=-20.00, z=-208.45] died: Restless Spirit was killed
+[14Jun2025 00:12:09.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/57989, l='ServerLevel[world]', x=95.54, y=98.42, z=-107.46] died: Headless Warrior was slain by Piglin
+[14Jun2025 00:16:07.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [The Power of the Sun]

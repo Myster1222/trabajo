@@ -4254,73 +4254,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 00:01:14 +0000"
+      "log_spam_fixer": "2025-06-14 00:11:14 +0000"
     },
     "done": false
   },
@@ -4556,6 +4556,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-13 23:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 00:04:46 +0000"
     },
     "done": true
   },
@@ -4823,6 +4829,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/watch_of_flowing_time": {
+    "criteria": {
+      "has_the_recipe": "2025-06-14 00:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-13 23:26:10 +0000"
@@ -4886,6 +4898,12 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-13 23:33:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-14 00:04:28 +0000"
     },
     "done": true
   },
@@ -5111,6 +5129,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-06-14 00:04:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-06-13 23:26:10 +0000"
@@ -5156,6 +5180,12 @@
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-13 23:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-14 00:04:28 +0000"
     },
     "done": true
   },
@@ -5318,6 +5348,12 @@
   "projecte:recipes/misc/conversions/diamond_to_emerald": {
     "criteria": {
       "has_diamond": "2025-06-13 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 00:04:46 +0000"
     },
     "done": true
   },
