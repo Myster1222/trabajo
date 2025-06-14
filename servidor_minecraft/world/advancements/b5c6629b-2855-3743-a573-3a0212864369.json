@@ -10229,73 +10229,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:39:53 +0000"
+      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
     },
     "done": false
   },
@@ -10395,6 +10395,12 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/aeternalis_fuel_to_mobius_fuel": {
+    "criteria": {
+      "has_aeternalis_fuel": "2025-06-14 23:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-14 23:34:32 +0000"
@@ -10425,9 +10431,21 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/klein_star_sphere": {
+    "criteria": {
+      "has_components": "2025-06-14 23:49:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-06-14 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_vier": {
+    "criteria": {
+      "has_components": "2025-06-14 23:48:50 +0000"
     },
     "done": true
   },
@@ -10473,9 +10491,21 @@
     },
     "done": true
   },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2025-06-14 23:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-06-14 23:19:37 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_zwei": {
+    "criteria": {
+      "has_components": "2025-06-14 23:47:32 +0000"
     },
     "done": true
   },
@@ -10488,6 +10518,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-14 23:16:24 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_omega": {
+    "criteria": {
+      "has_components": "2025-06-14 23:49:50 +0000"
     },
     "done": true
   },
@@ -10581,9 +10617,21 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/mobius_fuel_to_alchemical_coal": {
+    "criteria": {
+      "has_mobius_fuel": "2025-06-14 23:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-14 23:16:24 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_drei": {
+    "criteria": {
+      "has_components": "2025-06-14 23:48:38 +0000"
     },
     "done": true
   },
