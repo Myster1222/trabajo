@@ -1299,3 +1299,66 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [14Jun2025 22:37:11.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Made ElSilverSito a server operator]
 [14Jun2025 22:38:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
 [14Jun2025 22:38:51.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[14Jun2025 22:40:37.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
+[14Jun2025 22:40:39.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[14Jun2025 22:41:43.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:42:52.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to TheForgottenNeo]
+[14Jun2025 22:43:10.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK hit the ground too hard
+[14Jun2025 22:43:30.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to TheForgottenNeo]
+[14Jun2025 22:43:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:44:43.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:44:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:47:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by TheForgottenNeo
+[14Jun2025 22:47:52.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:48:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has completed the challenge [The Power of the Sun]
+[14Jun2025 22:49:58.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Void Portal]
+[14Jun2025 22:51:19.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[14Jun2025 22:51:30.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 22:52:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Centennial]
+[14Jun2025 22:52:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:54:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Called Your Bluff]
+[14Jun2025 22:54:37.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Umvuthi, the Sunbird]
+[14Jun2025 22:54:45.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Praise the Sun]
+[14Jun2025 22:55:30.036] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException
+[14Jun2025 22:55:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:55:46.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Disme A Dozen]
+[14Jun2025 22:56:51.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:56:58.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[14Jun2025 22:57:34.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:35.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:36.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:37.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:38.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Tongbi, the Sculptor]
+[14Jun2025 22:57:50.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Take Aim]

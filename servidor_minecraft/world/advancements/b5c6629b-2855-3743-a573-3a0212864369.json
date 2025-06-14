@@ -106,6 +106,7 @@
       "minecraft:forest": "2025-06-13 05:29:58 +0000",
       "minecraft:desert": "2025-06-14 02:36:58 +0000",
       "minecraft:ocean": "2025-06-13 07:00:31 +0000",
+      "minecraft:frozen_peaks": "2025-06-14 22:51:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-14 10:01:52 +0000",
       "minecraft:deep_dark": "2025-06-13 22:16:22 +0000",
       "minecraft:savanna": "2025-06-14 02:35:55 +0000",
@@ -10077,7 +10078,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-14 22:34:53 +0000"
+      "requirement": "2025-06-14 22:54:53 +0000"
     },
     "done": false
   },
@@ -10105,6 +10106,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-06-14 22:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-06-14 22:22:56 +0000"
@@ -10114,6 +10121,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-14 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-06-14 22:52:48 +0000"
     },
     "done": true
   },
@@ -10177,9 +10190,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-14 22:52:48 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-06-14 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-14 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-14 22:52:48 +0000"
     },
     "done": true
   },
