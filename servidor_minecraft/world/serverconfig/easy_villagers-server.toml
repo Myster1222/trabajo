@@ -45,7 +45,7 @@
 	#How frequent a villager block should make a villager sound
 	#Lower values mean more frequent sounds
 	#Range: > 1
-	sound_amount = 20
+	sound_amount = 1
 	#If the trade cycling button should be enabled
 	trade_cycling = true
 	#If the villager reputation should be the same for every player
