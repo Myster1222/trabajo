@@ -1157,6 +1157,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-14 09:22:20 +0000",
+      "minecraft:blaze": "2025-06-14 21:27:43 +0000",
       "minecraft:skeleton": "2025-06-13 06:43:03 +0000",
       "minecraft:hoglin": "2025-06-13 23:04:58 +0000",
       "minecraft:spider": "2025-06-14 05:16:26 +0000",
@@ -7405,6 +7406,36 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-14 09:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-14 21:28:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-06-14 21:28:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-14 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-14 21:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-14 21:28:06 +0000"
     },
     "done": true
   },
