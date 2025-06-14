@@ -85,3 +85,8 @@
 [14Jun2025 00:29:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
 [14Jun2025 00:31:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Enchanter]
 [14Jun2025 00:31:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Hidden in the Depths]
+[14Jun2025 00:39:39.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Cover Me with Diamonds]
+[14Jun2025 00:39:52.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Cover Me with Diamonds]
+[14Jun2025 00:41:43.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[14Jun2025 00:41:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[14Jun2025 00:41:43.108] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
