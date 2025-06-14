@@ -2918,3 +2918,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 02:58:44.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Bonk!]
 [14Jun2025 02:59:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set EMC value for create:iron_sheet to 150!]
 [14Jun2025 02:59:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Restart or use "/reload" when all changes are complete.]
+[14Jun2025 03:04:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 03:07:14.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
+[14Jun2025 03:07:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 03:07:55.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
