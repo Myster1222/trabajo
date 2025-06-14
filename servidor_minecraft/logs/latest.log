@@ -1252,3 +1252,50 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [14Jun2025 22:17:30.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was shot by TheForgottenNeo
 [14Jun2025 22:18:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
 [14Jun2025 22:18:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
+[14Jun2025 22:18:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
+[14Jun2025 22:19:14.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:19:55.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the weather to clear]
+[14Jun2025 22:19:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[14Jun2025 22:20:13.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:20:44.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [What a Deal!]
+[14Jun2025 22:20:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
+[14Jun2025 22:20:54.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:21:30.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was blown up by ElSilverSito
+[14Jun2025 22:21:33.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 22:21:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 22:21:36.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was shot by TheForgottenNeo
+[14Jun2025 22:21:39.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:22:55.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=115, z=-816} BlockPos{x=112, y=114, z=-816}
+[14Jun2025 22:24:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement ['X' Marks the Spot]
+[14Jun2025 22:24:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[14Jun2025 22:25:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[14Jun2025 22:25:15.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK fell from a high place
+[14Jun2025 22:25:17.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[14Jun2025 22:26:07.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15571, l='ServerLevel[world]', x=-308.49, y=86.00, z=-934.51] died, message: 'Nitwit was blown up by ElSilverSito'
+[14Jun2025 22:27:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[14Jun2025 22:27:15.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:27:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Centennial]
+[14Jun2025 22:28:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:28:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[14Jun2025 22:28:18.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 22:29:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[14Jun2025 22:29:41.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 22:29:50.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Made ElSilverSito no longer a server operator]
+[14Jun2025 22:31:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:33:02.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Stone Age]
+[14Jun2025 22:33:16.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[14Jun2025 22:33:22.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Spectator Mode]
+[14Jun2025 22:33:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[14Jun2025 22:33:41.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Spectator Mode]
+[14Jun2025 22:33:55.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[14Jun2025 22:34:24.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[14Jun2025 22:34:51.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 22:35:14.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[14Jun2025 22:35:19.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[14Jun2025 22:35:22.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Alex's Caves]
+[14Jun2025 22:35:23.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[14Jun2025 22:35:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Barrel Booty]
+[14Jun2025 22:35:41.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [It Belongs in a Museum]
+[14Jun2025 22:37:11.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Made ElSilverSito a server operator]
+[14Jun2025 22:38:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[14Jun2025 22:38:51.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
