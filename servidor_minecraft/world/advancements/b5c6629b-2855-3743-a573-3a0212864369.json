@@ -6392,87 +6392,57 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "bettermcdonaldsmod:recipes/food/ketchup": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "bettermcdonaldsmod:recipes/food/sprite": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "bettermcdonaldsmod:recipes/food/mustard": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "bettermcdonaldsmod:recipes/food/coca_cola": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "bettermcdonaldsmod:recipes/food/fanta": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "has_water_bucket": "2025-06-14 00:58:43 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-14 01:03:16 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/decorations/dm_pedestal": {
-    "criteria": {
-      "has_matter": "2025-06-14 01:11:09 +0000"
     },
     "done": true
   },
@@ -6494,12 +6464,6 @@
     },
     "done": true
   },
-  "projecte:red_matter": {
-    "criteria": {
-      "rm": "2025-06-14 01:11:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-06-14 01:03:16 +0000"
@@ -6518,45 +6482,15 @@
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
-    "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/decorations/gadgets/fancy_frame/clear": {
     "criteria": {
       "has_item": "2025-06-14 01:03:16 +0000"
     },
     "done": true
   },
-  "projecte:recipes/tools/arcana_ring": {
-    "criteria": {
-      "has_matter": "2025-06-14 01:11:09 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/mind_stone": {
-    "criteria": {
-      "has_matter": "2025-06-14 01:11:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-14 01:03:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/body_stone": {
-    "criteria": {
-      "has_matter": "2025-06-14 01:11:09 +0000"
     },
     "done": true
   },
@@ -6578,24 +6512,6 @@
     },
     "done": true
   },
-  "projecte:recipes/building_blocks/red_matter_block": {
-    "criteria": {
-      "has_red_matter": "2025-06-14 01:11:09 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/ketchup": {
-    "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/sprite": {
-    "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-14 01:03:16 +0000"
@@ -6608,39 +6524,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-14 01:08:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-14 01:03:16 +0000"
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/mustard": {
-    "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/coca_cola": {
-    "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-14 01:03:16 +0000"
-    },
-    "done": true
-  },
-  "projecte:recipes/tools/soul_stone": {
-    "criteria": {
-      "has_matter": "2025-06-14 01:11:09 +0000"
     },
     "done": true
   },
@@ -6674,15 +6566,153 @@
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
+      "traded": "2025-06-14 01:08:15 +0000"
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/fanta": {
+  "projecte:recipes/decorations/dm_pedestal": {
     "criteria": {
-      "has_water_bucket": "2025-06-14 00:58:43 +0000"
+      "has_matter": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/arcana_ring": {
+    "criteria": {
+      "has_matter": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/mind_stone": {
+    "criteria": {
+      "has_matter": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/body_stone": {
+    "criteria": {
+      "has_matter": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/red_matter_block": {
+    "criteria": {
+      "has_red_matter": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/soul_stone": {
+    "criteria": {
+      "has_matter": "2025-06-14 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter_pickaxe": {
+    "criteria": {
+      "dm_pick": "2025-06-14 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/rm_pick": {
+    "criteria": {
+      "has_matter": "2025-06-14 01:31:19 +0000"
+    },
+    "done": true
+  },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2025-06-14 01:31:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/rm_morning_star": {
+    "criteria": {
+      "has_pickaxe": "2025-06-14 01:31:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
+    },
+    "done": false
+  },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2025-06-14 01:36:56 +0000"
     },
     "done": true
   },

@@ -985,3 +985,32 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 01:13:54.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
 [14Jun2025 01:19:31.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Condense the world!]
 [14Jun2025 01:19:31.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [The power of the sun!]
+[14Jun2025 01:30:51.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Using Matter on Matter]
+[14Jun2025 01:31:09.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Using Matter on Matter]
+[14Jun2025 01:31:33.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Is this thing safe?]
+[14Jun2025 01:31:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Is this thing safe?]
+[14Jun2025 01:32:16.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=106, z=-484} BlockPos{x=6, y=94, z=-76}
+[14Jun2025 01:32:16.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=106, z=-484} BlockPos{x=6, y=94, z=-76}
+[14Jun2025 01:32:16.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=106, z=-484} BlockPos{x=6, y=94, z=-76}
+[14Jun2025 01:32:16.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=106, z=-484} BlockPos{x=6, y=94, z=-76}
+[14Jun2025 01:32:16.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=106, z=-484} BlockPos{x=6, y=94, z=-76}
+[14Jun2025 01:32:16.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=106, z=-484} BlockPos{x=6, y=94, z=-76}
+[14Jun2025 01:32:38.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 01:32:39.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b5c6629b-2855-3743-a573-3a0212864369 timed out
+[14Jun2025 01:32:39.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheForgottenNeo
+[14Jun2025 01:32:39.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 01:32:40.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Timed out
+[14Jun2025 01:32:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[14Jun2025 01:32:40.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[14Jun2025 01:32:42.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gola
+[14Jun2025 01:33:15.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:54809] logged in with entity id 127342 at (93.28086426985885, 107.0, -488.264529960523)
+[14Jun2025 01:33:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[14Jun2025 01:33:18.855] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[14Jun2025 01:33:18.855] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 01:33:29.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 01:33:30.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 01:33:30.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[14Jun2025 01:36:15.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Cover Me in Debris]
+[14Jun2025 01:36:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Transmutation on the go!]
+[14Jun2025 01:37:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 01:37:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Transmutation on the go!]

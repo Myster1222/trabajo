@@ -4669,73 +4669,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:26:42 +0000"
+      "log_spam_fixer": "2025-06-14 01:36:42 +0000"
     },
     "done": false
   },
@@ -4757,6 +4757,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-06-14 01:36:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
@@ -4772,6 +4778,12 @@
   "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk1": {
+    "criteria": {
+      "has_diamond": "2025-06-14 01:30:24 +0000"
     },
     "done": true
   },
@@ -4793,6 +4805,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-06-14 01:36:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
@@ -4802,6 +4820,12 @@
   "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-14 01:36:15 +0000"
     },
     "done": true
   },
@@ -4829,9 +4853,21 @@
     },
     "done": true
   },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2025-06-14 01:31:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-14 01:34:16 +0000"
     },
     "done": true
   },
@@ -4895,6 +4931,24 @@
     },
     "done": true
   },
+  "projecte:dark_matter_pickaxe": {
+    "criteria": {
+      "dm_pick": "2025-06-14 01:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-14 01:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-14 01:29:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-14 01:07:29 +0000"
@@ -4943,9 +4997,21 @@
     },
     "done": true
   },
+  "projecte:recipes/decorations/collector_mk1": {
+    "criteria": {
+      "has_diamond": "2025-06-14 01:30:24 +0000"
+    },
+    "done": true
+  },
   "projecte:condenser": {
     "criteria": {
       "condenser": "2025-06-14 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-06-14 01:36:14 +0000"
     },
     "done": true
   },
@@ -5006,6 +5072,12 @@
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2025-06-14 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/rm_morning_star": {
+    "criteria": {
+      "has_pickaxe": "2025-06-14 01:31:40 +0000"
     },
     "done": true
   },
