@@ -6652,79 +6652,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 02:06:42 +0000"
+      "log_spam_fixer": "2025-06-14 02:17:42 +0000"
     },
     "done": false
   },
   "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-14 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -6752,6 +6758,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
@@ -6767,6 +6779,12 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-06-14 01:40:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -6800,6 +6818,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
@@ -6818,6 +6842,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-06-14 02:14:19 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
     "criteria": {
       "has_netherite_diamond_ingot": "2025-06-14 01:47:44 +0000"
@@ -6827,6 +6857,12 @@
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -6842,6 +6878,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_the_recipe": "2025-06-14 02:14:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2025-06-14 01:40:38 +0000"
@@ -6851,6 +6893,12 @@
   "advancednetherite:recipes/misc/netherite_gold_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-14 01:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -6884,6 +6932,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-14 01:45:58 +0000"
@@ -6899,6 +6953,18 @@
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -6956,6 +7022,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-06-14 01:56:51 +0000"
@@ -6995,6 +7073,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -7082,9 +7166,21 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-06-14 02:16:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
     "criteria": {
       "has_netherite_emerald_ingot": "2025-06-14 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -7100,6 +7196,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/desk_bell": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-14 01:47:44 +0000"
@@ -7112,6 +7214,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-06-14 02:17:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
@@ -7121,6 +7235,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -7142,9 +7262,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -7193,6 +7325,18 @@
   "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-06-14 01:56:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chain_conveyor": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },
@@ -7298,6 +7442,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-06-14 02:14:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/item_hatch": {
     "criteria": {
       "has_item": "2025-06-14 01:56:51 +0000"
@@ -7319,6 +7469,12 @@
   "advancednetherite:recipes/misc/netherite_diamond_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-14 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-06-14 02:17:27 +0000"
     },
     "done": true
   },

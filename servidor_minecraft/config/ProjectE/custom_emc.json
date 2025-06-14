@@ -3,6 +3,14 @@
     {
       "item": "create:raw_zinc",
       "emc": 125
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 6
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 2
     }
   ]
 }
