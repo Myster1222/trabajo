@@ -2922,3 +2922,4 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 03:07:14.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
 [14Jun2025 03:07:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
 [14Jun2025 03:07:55.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[14Jun2025 03:25:29.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Even hotter matter!]
