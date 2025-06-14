@@ -1038,3 +1038,17 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 01:50:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Endermen?]
 [14Jun2025 01:51:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Cover Me in Netherite-Diamond]
 [14Jun2025 01:52:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Red and shiny!]
+[14Jun2025 02:04:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Kicked ElSilverSito: Kicked by an operator]
+[14Jun2025 02:04:07.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Kicked by an operator
+[14Jun2025 02:04:07.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[14Jun2025 02:04:07.053] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[14Jun2025 02:04:19.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:58745] logged in with entity id 133387 at (76.67587454114405, 104.0, -477.0064546748009)
+[14Jun2025 02:04:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[14Jun2025 02:04:19.956] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[14Jun2025 02:04:19.957] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[14Jun2025 02:04:28.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[14Jun2025 02:04:29.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[14Jun2025 02:04:29.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[14Jun2025 02:06:46.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 02:06:58.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> :zzz
+[14Jun2025 02:07:01.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> :zzz:
