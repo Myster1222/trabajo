@@ -16734,3 +16734,26 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 23:08:53.522] [Server thread/INFO] [Lexiconfig/]: Starting lexicon revision!
 [14Jun2025 23:08:53.523] [Server thread/DEBUG] [Lexiconfig/]: Revising lexicon lexiconfig..
 [14Jun2025 23:08:53.524] [Server thread/INFO] [Lexiconfig/]: Finished lexicon revision!
+[14Jun2025 23:10:00.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 23:10:00.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 23:14:17.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
+[14Jun2025 23:15:00.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 23:15:00.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 23:15:59.352] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749942958962
+[14Jun2025 23:15:59.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 8.473753604071021,0.0,-5.708609504557558
+[14Jun2025 23:16:34.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 23:16:41.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ancient Battlefield]
+[14Jun2025 23:16:48.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=33, z=-41} BlockPos{x=132, y=36, z=-41}
+[14Jun2025 23:16:51.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=39, z=-48} BlockPos{x=138, y=40, z=-48}
+[14Jun2025 23:16:56.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=38, z=-54} BlockPos{x=144, y=38, z=-54}
+[14Jun2025 23:16:56.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=37, z=-55} BlockPos{x=144, y=38, z=-54}
+[14Jun2025 23:16:58.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=44, z=-58} BlockPos{x=148, y=37, z=-58}
+[14Jun2025 23:16:58.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=44, z=-58} BlockPos{x=148, y=37, z=-58}
+[14Jun2025 23:18:22.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[14Jun2025 23:18:26.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 23:18:26.570] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749943106559
+[14Jun2025 23:19:26.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 23:19:37.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Withering Heights]
+[14Jun2025 23:19:37.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Withering Heights]
+[14Jun2025 23:19:59.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 23:20:00.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -98,6 +98,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-14 22:49:25 +0000",
+      "minecraft:deep_ocean": "2025-06-14 23:17:49 +0000",
       "minecraft:eroded_badlands": "2025-06-14 08:58:30 +0000",
       "minecraft:cherry_grove": "2025-06-14 06:24:06 +0000",
       "minecraft:badlands": "2025-06-14 08:50:49 +0000",
@@ -113,6 +114,7 @@
       "minecraft:flower_forest": "2025-06-14 08:47:45 +0000",
       "minecraft:frozen_peaks": "2025-06-14 22:50:32 +0000",
       "minecraft:deep_dark": "2025-06-13 22:28:04 +0000",
+      "minecraft:meadow": "2025-06-14 23:14:31 +0000",
       "minecraft:savanna": "2025-06-14 08:48:03 +0000",
       "minecraft:plains": "2025-06-13 05:39:20 +0000"
     },
@@ -1166,6 +1168,7 @@
       "minecraft:hoglin": "2025-06-13 23:04:58 +0000",
       "minecraft:spider": "2025-06-14 05:16:26 +0000",
       "minecraft:creeper": "2025-06-13 06:49:47 +0000",
+      "minecraft:wither": "2025-06-14 23:19:51 +0000",
       "minecraft:slime": "2025-06-14 09:00:08 +0000",
       "minecraft:wither_skeleton": "2025-06-14 07:18:28 +0000",
       "minecraft:cave_spider": "2025-06-13 06:43:45 +0000",
@@ -1695,6 +1698,7 @@
       "rocky_shrubland": "2025-06-13 21:41:19 +0000",
       "scrubland": "2025-06-14 08:47:53 +0000",
       "erupting_inferno": "2025-06-14 01:04:55 +0000",
+      "jade_cliffs": "2025-06-14 23:14:36 +0000",
       "clover_patch": "2025-06-13 22:45:35 +0000",
       "orchard": "2025-06-13 23:50:15 +0000",
       "lavender_forest": "2025-06-13 05:59:12 +0000",
@@ -7413,111 +7417,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 23:07:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-06-14 22:00:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-06-14 21:28:06 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "shot_arrow": "2025-06-14 22:57:50 +0000"
+      "has_blaze_rod": "2025-06-14 21:28:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_amethyst_shard": "2025-06-14 21:43:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2025-06-14 22:51:39 +0000"
+      "has_blaze_rod": "2025-06-14 21:28:06 +0000"
     },
     "done": true
   },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-06-14 21:28:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-14 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 21:43:44 +0000"
     },
     "done": true
   },
@@ -7539,30 +7471,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-14 22:51:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-06-14 23:05:50 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-06-14 21:28:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-06-14 21:28:06 +0000"
-    },
-    "done": true
-  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-06-14 21:43:44 +0000"
@@ -7575,9 +7483,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "barako": "2025-06-14 22:54:45 +0000"
+      "has_emerald_block": "2025-06-14 22:00:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-14 22:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-14 22:51:39 +0000"
     },
     "done": true
   },
@@ -7587,15 +7507,105 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-14 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-14 22:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-14 23:05:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-14 23:05:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_blaze_rod": "2025-06-14 21:28:06 +0000"
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 23:19:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-14 23:19:37 +0000"
     },
     "done": true
   },
