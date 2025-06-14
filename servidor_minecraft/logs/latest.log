@@ -1969,3 +1969,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 02:18:09.897] [Server thread/INFO] [Lexiconfig/]: Starting lexicon revision!
 [14Jun2025 02:18:09.899] [Server thread/INFO] [Lexiconfig/]: Finished lexicon revision!
 [14Jun2025 02:28:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 02:33:26.434] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[14Jun2025 02:33:27.575] [Server thread/INFO] [naturescompass/]: Search succeeded: 1760 radius, 1395 samples
+[14Jun2025 02:35:56.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Take Aim]
