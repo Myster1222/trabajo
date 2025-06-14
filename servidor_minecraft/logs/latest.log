@@ -3931,3 +3931,22 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 04:38:59.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was slain by TheForgottenNeo
 [14Jun2025 04:39:10.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was slain by TheForgottenNeo
 [14Jun2025 04:39:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by ElSilverSito
+[14Jun2025 04:42:16.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to 10000.500000, 10000.000000, 100000.500000]
+[14Jun2025 04:42:16.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4151ms or 83 ticks behind
+[14Jun2025 04:42:20.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo was kicked for floating too long!
+[14Jun2025 04:42:20.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Flying is not enabled on this server
+[14Jun2025 04:42:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[14Jun2025 04:42:20.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[14Jun2025 04:42:34.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:37483] logged in with entity id 175361 at (9999.652779413214, 9794.843589703922, 99999.9833679304)
+[14Jun2025 04:42:34.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[14Jun2025 04:42:35.106] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[14Jun2025 04:42:35.107] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 04:42:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 04:42:49.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 04:42:50.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 04:42:50.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[14Jun2025 04:49:35.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[14Jun2025 04:49:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[14Jun2025 04:49:35.362] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[14Jun2025 04:51:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set EMC value for create:polished_rose_quartz to 12!]
+[14Jun2025 04:51:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Restart or use "/reload" when all changes are complete.]

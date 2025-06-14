@@ -8732,88 +8732,88 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-14 04:38:25 +0000",
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
+      "requirement": "2025-06-14 04:07:22 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "incendium:misc/soul_searcher": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
+      "incendium:weeping_valley": "2025-06-14 04:07:27 +0000",
+      "incendium:toxic_heap": "2025-06-14 04:07:22 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "incendium:misc/root": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
+      "incendium:weeping_valley": "2025-06-14 04:07:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
+      "bastion": "2025-06-14 04:07:29 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
+      "loot_bastion_other": "2025-06-14 04:07:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-14 04:38:14 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
+      "cave_tablet": "2025-06-14 04:07:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
     },
     "done": true
   },
@@ -8841,39 +8841,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-06-14 04:35:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-06-14 04:15:07 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mercy_cross": {
-    "criteria": {
-      "has_withered_rib": "2025-06-14 04:12:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
     },
     "done": true
   },
@@ -8889,33 +8859,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
-    "criteria": {
-      "has_withered_rib": "2025-06-14 04:12:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-14 04:11:46 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-06-14 04:07:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:weeping_valley": "2025-06-14 04:07:27 +0000"
     },
     "done": true
   },
@@ -8931,52 +8877,15 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-06-14 04:07:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:weeping_valley": "2025-06-14 04:07:27 +0000",
-      "incendium:toxic_heap": "2025-06-14 04:07:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-14 04:12:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-14 04:11:46 +0000"
     },
     "done": true
   },
@@ -8992,12 +8901,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
@@ -9007,12 +8910,6 @@
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 04:11:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-06-14 04:07:56 +0000"
     },
     "done": true
   },
@@ -9028,9 +8925,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-14 04:09:38 +0000"
+      "has_basalt": "2025-06-14 04:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-14 04:11:46 +0000"
     },
     "done": true
   },
@@ -9040,15 +8943,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_blaze_rod": "2025-06-14 04:15:07 +0000"
+      "fortress": "2025-06-14 04:12:06 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "reliquary:recipes/misc/mercy_cross": {
     "criteria": {
-      "bastion": "2025-06-14 04:07:29 +0000"
+      "has_withered_rib": "2025-06-14 04:12:17 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
+    "criteria": {
+      "has_withered_rib": "2025-06-14 04:12:17 +0000"
     },
     "done": true
   },
@@ -9058,11 +8967,101 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-14 04:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-14 04:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-06-14 04:15:07 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-14 04:35:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-14 04:48:18 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
