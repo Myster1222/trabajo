@@ -39,6 +39,10 @@
     {
       "item": "create:precision_mechanism",
       "emc": 12
+    },
+    {
+      "item": "tacz:ammo{AmmoId:\"tacz:556x45\"}",
+      "emc": 5000
     }
   ]
 }
