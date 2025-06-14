@@ -3914,3 +3914,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 04:10:46.353] [Worker-Main-31/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, 31], pos: MutableBlockPos{x=112, y=154, z=508}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
 [14Jun2025 04:10:55.370] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 5a50caab: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [14Jun2025 04:10:55.432] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 5a50caab: RandomSpreadSearchWorker succeeded with 326 radius, 5 samples
+[14Jun2025 04:12:06.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A Terrible Fortress]
+[14Jun2025 04:14:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[14Jun2025 04:14:10.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4969ms or 99 ticks behind
+[14Jun2025 04:15:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Into Fire]
