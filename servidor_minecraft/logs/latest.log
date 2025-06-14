@@ -1174,3 +1174,13 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [14Jun2025 09:54:59.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
 [14Jun2025 09:55:28.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
 [14Jun2025 09:56:45.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[14Jun2025 10:00:53.243] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bea80a73: ConcentricRingsSearchWorker starting with 100000 max samples
+[14Jun2025 10:00:53.392] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bea80a73: ConcentricRingsSearchWorker succeeded with 128 samples
+[14Jun2025 10:03:18.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[14Jun2025 10:03:50.873] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 10:07:32.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[14Jun2025 10:08:00.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b5c6629b-2855-3743-a573-3a0212864369 timed out
+[14Jun2025 10:08:00.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheForgottenNeo
+[14Jun2025 10:08:00.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 10:08:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[14Jun2025 10:08:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a

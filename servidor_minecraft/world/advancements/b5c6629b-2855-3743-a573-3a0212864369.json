@@ -101,10 +101,12 @@
       "minecraft:birch_forest": "2025-06-14 02:34:19 +0000",
       "minecraft:beach": "2025-06-13 06:59:50 +0000",
       "minecraft:river": "2025-06-13 05:39:38 +0000",
+      "minecraft:stony_shore": "2025-06-14 10:01:28 +0000",
       "minecraft:dripstone_caves": "2025-06-13 06:49:59 +0000",
       "minecraft:forest": "2025-06-13 05:29:58 +0000",
       "minecraft:desert": "2025-06-14 02:36:58 +0000",
       "minecraft:ocean": "2025-06-13 07:00:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-14 10:01:52 +0000",
       "minecraft:deep_dark": "2025-06-13 22:16:22 +0000",
       "minecraft:savanna": "2025-06-14 02:35:55 +0000",
       "minecraft:plains": "2025-06-13 05:39:24 +0000"
@@ -1300,6 +1302,7 @@
       "rocky_shrubland": "2025-06-13 07:20:58 +0000",
       "scrubland": "2025-06-14 02:35:00 +0000",
       "erupting_inferno": "2025-06-14 04:11:16 +0000",
+      "highland": "2025-06-14 10:02:29 +0000",
       "clover_patch": "2025-06-14 00:26:46 +0000",
       "crystalline_chasm": "2025-06-14 04:11:10 +0000",
       "orchard": "2025-06-13 06:48:13 +0000",
@@ -9878,7 +9881,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-14 09:53:49 +0000"
+      "requirement": "2025-06-14 10:03:49 +0000"
     },
     "done": false
   },
