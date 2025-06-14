@@ -1205,3 +1205,50 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [14Jun2025 21:49:20.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
 [14Jun2025 21:50:16.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29c92578[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:58247) lost connection: Disconnected
 [14Jun2025 21:53:34.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 22:02:08.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:54299] logged in with entity id 7950 at (10.5, 72.0, -7.5)
+[14Jun2025 22:02:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[14Jun2025 22:02:09.552] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[14Jun2025 22:02:09.552] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[14Jun2025 22:02:20.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[14Jun2025 22:02:25.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[14Jun2025 22:02:25.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[14Jun2025 22:02:38.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
+[14Jun2025 22:02:42.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[14Jun2025 22:02:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 22:03:21.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
+[14Jun2025 22:03:36.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 22:03:41.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:03:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[14Jun2025 22:04:19.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[14Jun2025 22:04:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:08:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Sweet Dreams]
+[14Jun2025 22:09:47.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:35401] logged in with entity id 10269 at (77.66933084906138, 104.0, -477.273589811899)
+[14Jun2025 22:09:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[14Jun2025 22:09:49.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[14Jun2025 22:09:49.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 22:10:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:10:12.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 22:10:13.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 22:10:13.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[14Jun2025 22:10:42.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has reached the goal [Listen directly]
+[14Jun2025 22:10:42.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [DJ! DJ!]
+[14Jun2025 22:10:46.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:11:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:11:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:12:05.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[14Jun2025 22:12:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> chavales unance al coso
+[14Jun2025 22:12:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> elgrupo
+[14Jun2025 22:12:29.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> del voicechatmod
+[14Jun2025 22:13:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[14Jun2025 22:13:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[14Jun2025 22:13:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[14Jun2025 22:14:33.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> como el pirata de culiacan
+[14Jun2025 22:14:36.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[14Jun2025 22:14:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[14Jun2025 22:15:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by TheForgottenNeo
+[14Jun2025 22:16:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[14Jun2025 22:16:44.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Alex's Mobs]
+[14Jun2025 22:17:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by TheForgottenNeo
+[14Jun2025 22:17:30.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was shot by TheForgottenNeo
+[14Jun2025 22:18:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
+[14Jun2025 22:18:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
