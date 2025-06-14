@@ -1670,6 +1670,7 @@
     "criteria": {
       "shrubland": "2025-06-13 06:04:59 +0000",
       "rocky_shrubland": "2025-06-13 21:41:19 +0000",
+      "erupting_inferno": "2025-06-14 01:04:55 +0000",
       "clover_patch": "2025-06-13 22:45:35 +0000",
       "orchard": "2025-06-13 23:50:15 +0000",
       "lavender_forest": "2025-06-13 05:59:12 +0000",
@@ -4323,6 +4324,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-06-14 01:03:26 +0000",
       "incendium:infernal_dunes": "2025-06-14 00:59:59 +0000",
       "incendium:toxic_heap": "2025-06-14 00:19:49 +0000",
       "incendium:withered_forest": "2025-06-14 00:18:22 +0000"
@@ -4667,73 +4669,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 01:01:20 +0000"
+      "log_spam_fixer": "2025-06-14 01:16:42 +0000"
     },
     "done": false
   },
@@ -4746,6 +4748,12 @@
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-06-14 01:04:25 +0000"
     },
     "done": true
   },
@@ -4764,6 +4772,12 @@
   "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-14 01:07:29 +0000"
     },
     "done": true
   },
@@ -4791,6 +4805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-14 01:07:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
@@ -4815,6 +4835,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-14 01:07:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
@@ -4827,9 +4853,27 @@
     },
     "done": true
   },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-06-14 01:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-14 01:07:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-14 01:05:48 +0000"
     },
     "done": true
   },
@@ -4851,9 +4895,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-14 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "treasure": "2025-06-14 01:05:44 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-14 01:07:29 +0000"
     },
     "done": true
   },
@@ -4869,6 +4931,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-14 01:12:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-06-14 01:05:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-06-14 01:01:43 +0000"
@@ -4881,6 +4955,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-14 01:05:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-14 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-14 01:01:45 +0000"
@@ -4890,6 +4976,18 @@
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-14 00:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-14 01:07:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-06-14 01:07:29 +0000"
     },
     "done": true
   },
