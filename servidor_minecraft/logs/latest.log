@@ -90,3 +90,17 @@
 [14Jun2025 00:41:43.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
 [14Jun2025 00:41:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
 [14Jun2025 00:41:43.108] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[14Jun2025 00:50:11.237] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 5a50caab: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Jun2025 00:50:11.931] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 5a50caab: RandomSpreadSearchWorker succeeded with 723 radius, 4 samples
+[14Jun2025 00:50:24.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:35209] logged in with entity id 95481 at (-35.30395031398732, 96.0, -111.51134152849409)
+[14Jun2025 00:50:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[14Jun2025 00:50:27.324] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[14Jun2025 00:50:27.324] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[14Jun2025 00:50:37.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[14Jun2025 00:50:38.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[14Jun2025 00:50:38.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[14Jun2025 00:51:17.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 00:51:35.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> xaero-waypoint:hamter:H:82:104:-479:3:false:0:Internal-overworld-waypoints
+[14Jun2025 00:52:11.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=391, y=123, z=-404} BlockPos{x=391, y=122, z=-404}
+[14Jun2025 00:52:13.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=122, z=-401} BlockPos{x=396, y=121, z=-401}
+[14Jun2025 00:54:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Gave 1 [Wheat Seeds] to ElSilverSito]
