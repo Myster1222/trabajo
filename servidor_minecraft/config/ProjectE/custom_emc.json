@@ -47,6 +47,10 @@
     {
       "item": "tacz:ammo{AmmoId:\"tacz:12g\"}",
       "emc": 2500
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 10000000
     }
   ]
 }
