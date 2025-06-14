@@ -23,6 +23,22 @@
     {
       "item": "create:brass_ingot",
       "emc": 270
+    },
+    {
+      "item": "create:brass_sheet",
+      "emc": 300
+    },
+    {
+      "item": "create:polished_rose_quartz",
+      "emc": 12
+    },
+    {
+      "item": "tconstruct:blazing_blood_bucket",
+      "emc": 12
+    },
+    {
+      "item": "create:precision_mechanism",
+      "emc": 12
     }
   ]
 }
