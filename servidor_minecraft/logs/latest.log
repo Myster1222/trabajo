@@ -3918,3 +3918,16 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 04:14:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
 [14Jun2025 04:14:10.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4969ms or 99 ticks behind
 [14Jun2025 04:15:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Into Fire]
+[14Jun2025 04:22:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 04:26:07.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[14Jun2025 04:33:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[14Jun2025 04:33:53.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[14Jun2025 04:36:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Applied effect Strength to ElSilverSito]
+[14Jun2025 04:36:30.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by ElSilverSito
+[14Jun2025 04:36:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed
+[14Jun2025 04:36:35.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed ElSilverSito]
+[14Jun2025 04:36:35.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[14Jun2025 04:38:52.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was slain by TheForgottenNeo
+[14Jun2025 04:38:59.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was slain by TheForgottenNeo
+[14Jun2025 04:39:10.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was slain by TheForgottenNeo
+[14Jun2025 04:39:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by ElSilverSito
