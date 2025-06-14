@@ -1014,3 +1014,27 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [14Jun2025 01:36:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Transmutation on the go!]
 [14Jun2025 01:37:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
 [14Jun2025 01:37:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Transmutation on the go!]
+[14Jun2025 01:39:45.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Timed out
+[14Jun2025 01:39:45.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[14Jun2025 01:39:45.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[14Jun2025 01:39:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jun2025 01:39:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[14Jun2025 01:40:01.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:56315] logged in with entity id 128362 at (81.35565366561778, 104.0, -481.1466450296146)
+[14Jun2025 01:40:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[14Jun2025 01:40:01.759] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[14Jun2025 01:40:01.759] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[14Jun2025 01:40:17.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 01:40:18.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[14Jun2025 01:40:18.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[14Jun2025 01:40:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Cover Me in Debris]
+[14Jun2025 01:44:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Upgrades!]
+[14Jun2025 01:46:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [No More Phantoms]
+[14Jun2025 01:47:58.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Ultimate Piglin distraction suit]
+[14Jun2025 01:48:59.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Endermen?]
+[14Jun2025 01:49:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Cover Me in Netherite-Diamond]
+[14Jun2025 01:49:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Upgrades!]
+[14Jun2025 01:50:40.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [No More Phantoms]
+[14Jun2025 01:50:48.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Ultimate Piglin distraction suit]
+[14Jun2025 01:50:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Endermen?]
+[14Jun2025 01:51:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Cover Me in Netherite-Diamond]
+[14Jun2025 01:52:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Red and shiny!]
