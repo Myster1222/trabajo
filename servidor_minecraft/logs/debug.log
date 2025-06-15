@@ -19614,3 +19614,27 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [15Jun2025 02:33:44.522] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749954824500
 [15Jun2025 02:33:44.524] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
 [15Jun2025 02:33:44.892] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749954824892
+[15Jun2025 02:34:59.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[15Jun2025 02:35:12.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:35:12.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:35:38.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:35:38.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:35:50.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> quwe
+[15Jun2025 02:35:51.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:37:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> mira tiktok
+[15Jun2025 02:40:12.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:40:12.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:41:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Tunnel Treasures]
+[15Jun2025 02:41:08.814] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[15Jun2025 02:41:44.262] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:41:45.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:42:25.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:42:25.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:42:26.260] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:42:30.618] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:42:55.266] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:42:55.266] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:43:18.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:43:31.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:43:32.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Parrots and the Bats]
