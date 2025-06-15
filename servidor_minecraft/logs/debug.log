@@ -19638,3 +19638,88 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [15Jun2025 02:43:31.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [15Jun2025 02:43:32.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [15Jun2025 02:44:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Parrots and the Bats]
+[15Jun2025 02:44:14.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:44:20.869] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:21.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:22.667] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:22.668] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:23.665] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Best Friends Forever]
+[15Jun2025 02:44:39.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:44:56.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:44:56.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:45:07.677] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:45:12.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:45:12.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:45:30.665] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:45:31.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:45:31.675] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:46:10.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:46:11.663] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:46:18.065] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:46:21.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Gave 1 [Command Block] to ElSilverSito]
+[15Jun2025 02:46:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[15Jun2025 02:46:36.363] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:46:37.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:46:52.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[15Jun2025 02:47:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:03.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:04.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:05.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:05.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:07.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:09.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:09.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:09.665] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:09.665] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:10.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:10.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[15Jun2025 02:47:10.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:10.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:11.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new Hamster]
+[15Jun2025 02:47:31.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:31.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:47.676] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:47.676] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:47:47.676] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 02:48:02.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[15Jun2025 02:48:56.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:49:00.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 02:49:07.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:49:41.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.359656499199787,19.200000047683716,-22.827616861849606
+[15Jun2025 02:49:41.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 12.029442768836589,3.276812539647736,-16.411563018250263
+[15Jun2025 02:49:41.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0687957400492678,19.200000047683716,-12.910889986709549
+[15Jun2025 02:49:41.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 13.177822306682629,6.452395120418146,-32.19094139804986
+[15Jun2025 02:49:42.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 7.459307940123836,5.682460877427438,-28.34974636366087
+[15Jun2025 02:49:42.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 9.068795740049268,23.68747198683677,-16.91088998670955
+[15Jun2025 02:49:43.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 9.068795740049268,23.68747198683677,-16.91088998670955
+[15Jun2025 02:49:43.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 9.068795740049268,23.68747198683677,-16.91088998670955
+[15Jun2025 02:50:12.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:50:12.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:50:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[15Jun2025 02:50:45.320] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:50:53.058] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:50:54.058] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:51:23.208] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:51:26.707] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:51:29.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:51:44.562] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:51:45.409] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:51:52.871] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:52:32.811] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:52:34.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed
+[15Jun2025 02:52:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed TheForgottenNeo]
+[15Jun2025 02:52:36.365] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[15Jun2025 02:52:36.558] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749955956512
+[15Jun2025 02:52:48.480] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[15Jun2025 02:52:58.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 02:53:00.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Jun2025 02:53:30.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Jun2025 02:53:51.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
