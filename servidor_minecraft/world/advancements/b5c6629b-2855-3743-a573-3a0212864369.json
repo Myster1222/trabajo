@@ -10229,73 +10229,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-14 23:49:53 +0000"
+      "log_spam_fixer": "2025-06-15 00:09:53 +0000"
     },
     "done": false
   },
@@ -10308,6 +10308,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-14 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/blaze": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
     },
     "done": true
   },
@@ -10359,6 +10365,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/midas_touchstone": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-14 23:16:24 +0000"
@@ -10380,6 +10392,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-14 23:34:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/salamander_eye": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
     },
     "done": true
   },
@@ -10503,6 +10521,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/blaze_rod": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/klein_star_zwei": {
     "criteria": {
       "has_components": "2025-06-14 23:47:32 +0000"
@@ -10512,6 +10536,12 @@
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-14 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2025-06-14 23:50:06 +0000"
     },
     "done": true
   },
@@ -10554,6 +10584,24 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-06-14 23:19:53 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/magma_cream": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/redstone_to_lava": {
+    "criteria": {
+      "has_volcanite_amulet": "2025-06-14 23:59:04 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/magma_cube": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
     },
     "done": true
   },
@@ -10620,6 +10668,24 @@
   "projecte:recipes/misc/conversions/mobius_fuel_to_alchemical_coal": {
     "criteria": {
       "has_mobius_fuel": "2025-06-14 23:46:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/destruction_catalyst": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/lantern_of_paranoia": {
+    "criteria": {
+      "has_molten_core": "2025-06-15 00:04:38 +0000"
     },
     "done": true
   },
