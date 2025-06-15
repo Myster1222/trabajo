@@ -493,3 +493,34 @@
 [15Jun2025 02:19:34.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=110, z=-490} BlockPos{x=124, y=110, z=-492}
 [15Jun2025 02:19:35.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=110, z=-492} BlockPos{x=124, y=110, z=-492}
 [15Jun2025 02:21:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Hot Stuff]
+[15Jun2025 02:24:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [EMC Batteries]
+[15Jun2025 02:26:12.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [BIG EMC Batteries]
+[15Jun2025 02:31:54.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:40295] logged in with entity id 118176 at (76.17580108194119, 104.0, -476.3921062533868)
+[15Jun2025 02:31:54.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[15Jun2025 02:31:54.604] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[15Jun2025 02:31:54.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[15Jun2025 02:32:05.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 02:32:07.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 02:32:07.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[15Jun2025 02:32:18.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4e990c8e-cdce-3746-81fd-75cde3bbf744 timed out
+[15Jun2025 02:32:18.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CLOCKWORK
+[15Jun2025 02:32:18.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[15Jun2025 02:32:20.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 02:32:22.242] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 02:32:22.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[15Jun2025 02:32:23.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 02:32:34.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 02:32:41.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 02:32:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 02:33:25.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was killed
+[15Jun2025 02:33:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Killed CLOCKWORK]
+[15Jun2025 02:33:29.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed
+[15Jun2025 02:33:29.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed ElSilverSito]
+[15Jun2025 02:33:35.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was killed
+[15Jun2025 02:33:35.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Killed CLOCKWORK]
+[15Jun2025 02:33:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed
+[15Jun2025 02:33:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed ElSilverSito]
+[15Jun2025 02:33:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed
+[15Jun2025 02:33:42.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was killed
+[15Jun2025 02:33:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed
+[15Jun2025 02:33:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Killed 3 entities]

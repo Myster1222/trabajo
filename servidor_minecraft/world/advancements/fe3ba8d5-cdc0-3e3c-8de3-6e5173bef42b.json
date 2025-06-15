@@ -7539,73 +7539,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
+      "log_spam_fixer": "2025-06-15 02:30:06 +0000"
     },
     "done": false
   },
@@ -7681,6 +7681,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/iron_band": {
+    "criteria": {
+      "has_lava": "2025-06-15 02:21:03 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/catalytic_lens_alt": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
@@ -7699,9 +7705,33 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-15 02:21:03 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/dm_pick": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_sphere": {
+    "criteria": {
+      "has_components": "2025-06-15 02:25:20 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_vier": {
+    "criteria": {
+      "has_components": "2025-06-15 02:24:35 +0000"
     },
     "done": true
   },
@@ -7735,6 +7765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/body_stone": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:12 +0000"
@@ -7747,9 +7783,21 @@
     },
     "done": true
   },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2025-06-15 02:24:07 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/combat/dm_sword": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_zwei": {
+    "criteria": {
+      "has_components": "2025-06-15 02:24:07 +0000"
     },
     "done": true
   },
@@ -7759,9 +7807,21 @@
     },
     "done": true
   },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2025-06-15 02:26:12 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/zero_ring": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/ketchup": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
     },
     "done": true
   },
@@ -7771,9 +7831,27 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/sprite": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_omega": {
+    "criteria": {
+      "has_components": "2025-06-15 02:25:30 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/dm_hoe": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/mobius_fuel_block": {
+    "criteria": {
+      "has_mobius_fuel": "2025-06-15 02:23:08 +0000"
     },
     "done": true
   },
@@ -7783,9 +7861,33 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/conversions/redstone_to_lava": {
+    "criteria": {
+      "has_volcanite_amulet": "2025-06-15 02:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-15 02:27:17 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/ignition_ring": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mustard": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/coca_cola": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
     },
     "done": true
   },
@@ -7798,6 +7900,12 @@
   "projecte:recipes/gem_chestplate": {
     "criteria": {
       "has_chestplate": "2025-06-15 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/life_stone": {
+    "criteria": {
+      "has_soul": "2025-06-15 02:22:45 +0000"
     },
     "done": true
   },
@@ -7816,6 +7924,12 @@
   "projecte:recipes/tools/soul_stone": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-15 02:27:17 +0000"
     },
     "done": true
   },
@@ -7843,6 +7957,12 @@
     },
     "done": true
   },
+  "projecte:recipes/tools/klein_star_drei": {
+    "criteria": {
+      "has_components": "2025-06-15 02:24:20 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/combat/rm_chestplate": {
     "criteria": {
       "has_matter": "2025-06-15 02:17:48 +0000"
@@ -7852,6 +7972,24 @@
   "projecte:recipes/tools/dm_shovel": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/klein_star_ein": {
+    "criteria": {
+      "has_components": "2025-06-15 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/fanta": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 02:20:33 +0000"
     },
     "done": true
   },
