@@ -653,3 +653,32 @@
 [15Jun2025 03:23:23.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> asi dejaron a la que siempre saca 10
 [15Jun2025 03:23:41.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35426ms or 708 ticks behind
 [15Jun2025 03:24:27.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30961ms or 619 ticks behind
+[15Jun2025 03:25:10.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! 4.407389693579034,2.400731460632926,-8.898368527438265
+[15Jun2025 03:25:19.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37199ms or 743 ticks behind
+[15Jun2025 03:25:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed
+[15Jun2025 03:25:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Killed ElSilverSito]
+[15Jun2025 03:25:29.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -9.927964270381608,4.1717343070161235,1.697692943980769
+[15Jun2025 03:25:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 03:25:37.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 03:26:13.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38878ms or 777 ticks behind
+[15Jun2025 03:27:02.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[15Jun2025 03:27:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[15Jun2025 03:27:02.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[15Jun2025 03:27:06.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37705ms or 754 ticks behind
+[15Jun2025 03:27:07.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: Disconnected
+[15Jun2025 03:27:07.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[15Jun2025 03:27:07.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[15Jun2025 03:27:53.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31902ms or 638 ticks behind
+[15Jun2025 03:28:15.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[15Jun2025 03:28:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[15Jun2025 03:28:15.438] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[15Jun2025 03:28:34.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26142ms or 522 ticks behind
+[15Jun2025 03:29:07.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18812ms or 376 ticks behind
+[15Jun2025 03:29:41.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18615ms or 372 ticks behind
+[15Jun2025 03:30:11.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14692ms or 293 ticks behind
+[15Jun2025 03:30:36.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10666ms or 213 ticks behind
+[15Jun2025 03:31:01.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9509ms or 190 ticks behind
+[15Jun2025 03:31:26.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9910ms or 198 ticks behind
+[15Jun2025 03:31:51.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9872ms or 197 ticks behind
+[15Jun2025 03:32:09.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3817ms or 76 ticks behind
+[15Jun2025 03:32:36.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
