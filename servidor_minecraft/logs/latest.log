@@ -63,3 +63,154 @@
 [15Jun2025 01:10:37.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=108, z=-485} BlockPos{x=113, y=107, z=-485}
 [15Jun2025 01:10:37.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=108, z=-485} BlockPos{x=113, y=107, z=-485}
 [15Jun2025 01:11:53.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[15Jun2025 01:14:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [We'll Meet Again]
+[15Jun2025 01:14:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito became death, the destroyer of worlds
+[15Jun2025 01:14:30.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,68.44903931827197,0.0
+[15Jun2025 01:14:31.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.0,19.0,0.0
+[15Jun2025 01:14:32.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,39.4930927609266,0.0
+[15Jun2025 01:14:32.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[15Jun2025 01:14:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 01:16:07.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:55017] logged in with entity id 86922 at (54.333115126693606, 102.0, -473.2508625037138)
+[15Jun2025 01:16:07.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[15Jun2025 01:16:09.292] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[15Jun2025 01:16:09.292] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[15Jun2025 01:16:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 01:16:22.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 01:16:24.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 01:16:24.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[15Jun2025 01:16:35.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4e990c8e-cdce-3746-81fd-75cde3bbf744 timed out
+[15Jun2025 01:16:35.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player CLOCKWORK
+[15Jun2025 01:16:35.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[15Jun2025 01:16:35.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 01:16:47.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 01:16:47.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[15Jun2025 01:16:52.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 01:17:07.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 01:17:22.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Jun2025 01:17:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[15Jun2025 01:17:45.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 01:17:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to TheForgottenNeo]
+[15Jun2025 01:18:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Diamonds!]
+[15Jun2025 01:18:52.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was atomized
+[15Jun2025 01:18:52.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,68.44903931827197,0.0
+[15Jun2025 01:18:54.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,40.55589932484385,0.0
+[15Jun2025 01:20:52.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[15Jun2025 01:20:59.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.34944943954280916,-10.025037578087955,2.1502297654411677
+[15Jun2025 01:21:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the weather to clear]
+[15Jun2025 01:21:05.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the weather to clear]
+[15Jun2025 01:21:08.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: Timed out
+[15Jun2025 01:21:08.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[15Jun2025 01:21:08.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[15Jun2025 01:21:08.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the weather to clear]
+[15Jun2025 01:21:16.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Timed out
+[15Jun2025 01:21:16.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[15Jun2025 01:21:16.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[15Jun2025 01:21:29.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:59211] logged in with entity id 90032 at (-981.4569019636305, -18.54274756970057, -416.8969590465917)
+[15Jun2025 01:21:29.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[15Jun2025 01:21:29.513] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[15Jun2025 01:21:29.513] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[15Jun2025 01:21:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[15Jun2025 01:21:38.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[15Jun2025 01:21:39.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[15Jun2025 01:21:39.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[15Jun2025 01:22:19.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,44.130599241837615,0.0
+[15Jun2025 01:22:26.944] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3841b189[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:53685) lost connection: Disconnected
+[15Jun2025 01:22:43.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 01:22:53.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Caves & Cliffs]
+[15Jun2025 01:23:24.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 28.78174605886295,7.49800830198194,-16.431084029323813
+[15Jun2025 01:23:24.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 22.027045648542526,24.86606870480486,6.552822245333971
+[15Jun2025 01:23:25.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.594797777151939,3.817733700426089,24.26550461266521
+[15Jun2025 01:23:25.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.594797777151939,3.817733700426089,24.26550461266521
+[15Jun2025 01:23:25.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.594797777151939,3.817733700426089,24.26550461266521
+[15Jun2025 01:23:25.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.594797777151939,3.817733700426089,24.26550461266521
+[15Jun2025 01:23:25.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.594797777151939,3.817733700426089,24.26550461266521
+[15Jun2025 01:23:32.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,53.383730968118186,0.0
+[15Jun2025 01:23:33.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.006814962185217155,21.44661303787304,0.3300520412697665
+[15Jun2025 01:23:33.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007767855186102679,22.563806223297544,0.3300520412697665
+[15Jun2025 01:23:33.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.8924326146293424,22.11417792004158,0.3300520412697665
+[15Jun2025 01:23:33.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.8924326146293424,22.11417792004158,0.3300520412697665
+[15Jun2025 01:23:34.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.9516711014490511,22.6382099272072,-0.12275322399125344
+[15Jun2025 01:23:34.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.9516711014490511,22.6382099272072,-0.12275322399125344
+[15Jun2025 01:23:34.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.9516711014490511,22.6382099272072,-0.12275322399125344
+[15Jun2025 01:23:34.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.9516711014490511,22.6382099272072,-0.12275322399125344
+[15Jun2025 01:23:35.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.9516711014490511,22.6382099272072,-0.12275322399125344
+[15Jun2025 01:23:35.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7ec2c6c1[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:54923): Took too long to log in
+[15Jun2025 01:23:35.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ec2c6c1[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:54923) lost connection: Took too long to log in
+[15Jun2025 01:23:35.300] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 01:23:35.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:35.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:35.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:36.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:36.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:36.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:37.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.007804086385363007,22.669049400471014,-0.1229204476711061
+[15Jun2025 01:23:46.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,14.338784746427791,0.0
+[15Jun2025 01:23:48.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,14.745774114399566,0.0
+[15Jun2025 01:23:52.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,67.24024108885409,0.0
+[15Jun2025 01:23:53.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.0,38.58798149077391,0.0
+[15Jun2025 01:24:00.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -0.27265297415794976,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:00.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -0.27265297415794976,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:00.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -0.1075309826371722,21.363043835111846,-0.9362780532496799
+[15Jun2025 01:24:00.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -0.27265297415794976,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:00.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:00.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:00.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.2567234648369094,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -4.3083759470084715,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -4.3083759470084715,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:01.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -4.3083759470084715,17.93404167684767,3.9845183309261643
+[15Jun2025 01:24:02.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.1204351852643413,17.93404167684767,4.850799064635908
+[15Jun2025 01:24:02.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.1204351852643413,17.93404167684767,4.850799064635908
+[15Jun2025 01:24:02.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.1204351852643413,17.93404167684767,4.850799064635908
+[15Jun2025 01:24:02.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.1204351852643413,17.93404167684767,4.850799064635908
+[15Jun2025 01:24:02.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.1204351852643413,17.93404167684767,4.850799064635908
+[15Jun2025 01:24:02.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:02.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:02.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:03.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:04.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:04.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:04.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:04.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:04.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.1204351852643413,17.93404167684767,5.984518330926164
+[15Jun2025 01:24:29.395] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14e20338[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:42505) lost connection: Disconnected
+[15Jun2025 01:25:05.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[15Jun2025 01:26:18.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[15Jun2025 01:26:24.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:46809] logged in with entity id 91344 at (-981.7516622737595, -59.0, -418.29449035829464)
+[15Jun2025 01:26:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[15Jun2025 01:26:25.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[15Jun2025 01:26:25.849] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[15Jun2025 01:26:40.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 01:26:43.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was blown up by ElSilverSito
+[15Jun2025 01:26:49.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[15Jun2025 01:26:49.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[15Jun2025 01:27:03.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Applied effect Strength to ElSilverSito]
+[15Jun2025 01:27:06.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by ElSilverSito
+[15Jun2025 01:27:10.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[15Jun2025 01:27:20.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 01:29:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[15Jun2025 01:29:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 01:30:53.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[15Jun2025 01:30:56.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 01:32:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[15Jun2025 01:32:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 01:32:57.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 01:33:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 01:35:25.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 01:40:03.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Monster Hunter]
+[15Jun2025 01:40:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[15Jun2025 01:41:48.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
+[15Jun2025 01:41:51.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[15Jun2025 01:42:23.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Where are my seeds?]
