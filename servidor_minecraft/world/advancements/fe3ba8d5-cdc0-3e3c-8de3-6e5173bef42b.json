@@ -1700,6 +1700,7 @@
       "erupting_inferno": "2025-06-14 01:04:55 +0000",
       "jade_cliffs": "2025-06-14 23:14:36 +0000",
       "clover_patch": "2025-06-13 22:45:35 +0000",
+      "mystic_grove": "2025-06-15 03:11:12 +0000",
       "orchard": "2025-06-13 23:50:15 +0000",
       "lavender_forest": "2025-06-13 05:59:12 +0000",
       "spider_nest": "2025-06-13 06:04:43 +0000",
@@ -7539,74 +7540,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-15 02:50:09 +0000",
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "requirement": "2025-06-15 03:15:14 +0000",
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 02:50:06 +0000"
+      "log_spam_fixer": "2025-06-15 03:15:10 +0000"
     },
     "done": false
   },
@@ -7799,6 +7800,12 @@
   "projecte:recipes/tools/klein_star_zwei": {
     "criteria": {
       "has_components": "2025-06-15 02:24:07 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2025-06-15 02:59:36 +0000"
     },
     "done": true
   },
@@ -7997,6 +8004,12 @@
   "projecte:recipes/misc/red_matter": {
     "criteria": {
       "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-15 02:52:52 +0000"
     },
     "done": true
   },

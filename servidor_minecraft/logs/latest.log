@@ -568,3 +568,88 @@
 [15Jun2025 02:53:00.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [15Jun2025 02:53:30.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [15Jun2025 02:53:51.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 02:56:48.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[15Jun2025 02:59:34.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[15Jun2025 02:59:36.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Music register]
+[15Jun2025 03:02:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:02:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 03:03:45.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[15Jun2025 03:03:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:04:15.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> QUITAME ESA MIERDA
+[15Jun2025 03:04:51.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[15Jun2025 03:05:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:05:47.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[15Jun2025 03:06:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 03:06:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:06:55.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:06:56.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:06:57.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:06:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:06:59.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[15Jun2025 03:07:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:08:09.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 03:08:10.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! -7.806871284970043,1.1175929378491105,-6.5600603140976546
+[15Jun2025 03:09:08.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[15Jun2025 03:09:15.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[15Jun2025 03:09:54.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[15Jun2025 03:11:12.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:12:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:12:55.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Close Quarters]
+[15Jun2025 03:13:06.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-916, y=132, z=-1061} BlockPos{x=-917, y=132, z=-1061}
+[15Jun2025 03:13:44.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/137906, l='ServerLevel[world]', x=-914.70, y=115.00, z=-1088.52] died, message: 'Villager was shot by TheForgottenNeo'
+[15Jun2025 03:14:51.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -11.99347434535673,0.0,-3.2878982998149695
+[15Jun2025 03:14:51.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -15.867013878118883,-9.0,-4.349792766530982
+[15Jun2025 03:15:31.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -19.081492266456507,10.331002852613011,-4.355359233397849
+[15Jun2025 03:15:31.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! -0.47434906497846896,15.335245296768306,-26.78249804492725
+[15Jun2025 03:15:31.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -18.32984653669405,9.141955278214226,-4.183795755885512
+[15Jun2025 03:15:32.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! -0.38589642094007104,15.180438118982664,-20.497210989132554
+[15Jun2025 03:15:34.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15Jun2025 03:15:35.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -7.071211648494341,23.999588243504036,-28.592750886452677
+[15Jun2025 03:15:40.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -3.739734415457292,18.06708527461484,-20.465777721014547
+[15Jun2025 03:15:58.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9133ms or 182 ticks behind
+[15Jun2025 03:16:20.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[15Jun2025 03:16:40.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
+[15Jun2025 03:17:09.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13745ms or 274 ticks behind
+[15Jun2025 03:17:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[15Jun2025 03:17:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:17:30.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to CLOCKWORK]
+[15Jun2025 03:17:32.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8196ms or 163 ticks behind
+[15Jun2025 03:17:53.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6304ms or 126 ticks behind
+[15Jun2025 03:17:54.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1024, y=29, z=-821} BlockPos{x=-1024, y=29, z=-819}
+[15Jun2025 03:17:58.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1024, y=27, z=-838} BlockPos{x=-1024, y=26, z=-838}
+[15Jun2025 03:17:58.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1024, y=27, z=-838} BlockPos{x=-1024, y=26, z=-838}
+[15Jun2025 03:17:58.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1024, y=26, z=-842} BlockPos{x=-1024, y=26, z=-838}
+[15Jun2025 03:18:00.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1022, y=23, z=-845} BlockPos{x=-1023, y=20, z=-842}
+[15Jun2025 03:18:00.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1023, y=21, z=-841} BlockPos{x=-1023, y=20, z=-842}
+[15Jun2025 03:18:00.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1022, y=20, z=-840} BlockPos{x=-1023, y=20, z=-842}
+[15Jun2025 03:18:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:18:17.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8476ms or 169 ticks behind
+[15Jun2025 03:18:26.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 0.26270715412567824,-0.2336762840937361,-14.39059487994166
+[15Jun2025 03:18:26.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.7938973233691513,-2.327880680281371,-12.811666048809798
+[15Jun2025 03:18:26.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 2.2155786543781915,-0.7000000476837194,-18.239770625028882
+[15Jun2025 03:18:32.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.48995164361917887,8.222071295277267,6.622426756708251
+[15Jun2025 03:18:40.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:18:58.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26108ms or 522 ticks behind
+[15Jun2025 03:19:19.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[15Jun2025 03:19:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:19:32.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18932ms or 378 ticks behind
+[15Jun2025 03:20:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[15Jun2025 03:20:07.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20046ms or 400 ticks behind
+[15Jun2025 03:20:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:20:26.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:20:34.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:21:05.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43137ms or 862 ticks behind
+[15Jun2025 03:21:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 03:21:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Penteconter]
+[15Jun2025 03:21:17.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:21:51.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30977ms or 619 ticks behind
+[15Jun2025 03:21:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:22:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:22:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.5700121887949763,-1.155699995458125,9.904077873155984
+[15Jun2025 03:22:10.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 03:22:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 10232 targets]
+[15Jun2025 03:22:51.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44940ms or 898 ticks behind
+[15Jun2025 03:22:54.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[15Jun2025 03:23:23.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> asi dejaron a la que siempre saca 10
+[15Jun2025 03:23:41.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35426ms or 708 ticks behind
+[15Jun2025 03:24:27.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30961ms or 619 ticks behind
