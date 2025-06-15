@@ -7539,75 +7539,327 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:20:06 +0000"
     },
     "done": false
+  },
+  "projecte:recipes/gem_leggings": {
+    "criteria": {
+      "has_leggings": "2025-06-15 02:18:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/gem_of_eternal_density": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_helmet": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/dm_pedestal": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/catalytic_lens": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/harvest_goddess_band": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/gem_boots": {
+    "criteria": {
+      "has_boots": "2025-06-15 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/gem_helmet": {
+    "criteria": {
+      "has_helmet": "2025-06-15 02:18:04 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_shears": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/rm_leggings": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/black_hole_band": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/catalytic_lens_alt": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_leggings": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_pick": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/arcana_ring": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/dark_matter_block": {
+    "criteria": {
+      "has_dark_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_hammer": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/mind_stone": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_axe": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/body_stone": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/void_ring": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_sword": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/red_matter_block": {
+    "criteria": {
+      "has_red_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/zero_ring": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/red_matter_alt": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_hoe": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/evertide_amulet": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/ignition_ring": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/rm_helmet": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:17:42 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/gem_chestplate": {
+    "criteria": {
+      "has_chestplate": "2025-06-15 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_chestplate": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/volcanite_amulet": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/soul_stone": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/archangel_smite": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/swiftwolf_rending_gale": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_boots": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/rm_boots": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/rm_chestplate": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:17:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_shovel": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/red_matter": {
+    "criteria": {
+      "has_matter": "2025-06-15 02:16:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
