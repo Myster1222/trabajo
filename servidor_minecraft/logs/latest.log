@@ -214,3 +214,31 @@
 [15Jun2025 01:41:48.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Spectator Mode]
 [15Jun2025 01:41:51.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
 [15Jun2025 01:42:23.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Where are my seeds?]
+[15Jun2025 01:44:34.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[15Jun2025 01:44:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 01:44:54.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 01:46:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 01:47:19.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[15Jun2025 01:47:40.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[15Jun2025 01:50:11.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[15Jun2025 01:51:01.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was shot by ElSilverSito
+[15Jun2025 01:51:11.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 01:52:21.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[15Jun2025 01:53:20.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[15Jun2025 01:53:35.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[15Jun2025 01:54:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[15Jun2025 01:54:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[15Jun2025 01:54:56.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was slain by ElSilverSito
+[15Jun2025 01:55:06.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 01:57:26.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[15Jun2025 02:00:47.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.0,67.32673164449682,0.0
+[15Jun2025 02:00:49.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[15Jun2025 02:00:50.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 0.0,-15.926990714475153,0.0
+[15Jun2025 02:01:10.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6334ms or 126 ticks behind
+[15Jun2025 02:01:12.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[15Jun2025 02:01:29.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[15Jun2025 02:02:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK was slain by TheForgottenNeo
+[15Jun2025 02:02:42.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: Disconnected
+[15Jun2025 02:02:42.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[15Jun2025 02:02:42.207] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[15Jun2025 02:02:54.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!

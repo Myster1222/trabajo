@@ -2083,82 +2083,112 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-15 01:40:03 +0000",
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "requirement": "2025-06-15 02:02:06 +0000",
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 02:02:06 +0000"
     },
     "done": false
+  },
+  "projecte:recipes/decorations/relay_mk1": {
+    "criteria": {
+      "has_diamond": "2025-06-15 01:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-15 01:55:34 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-15 01:40:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-15 01:51:55 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+    "criteria": {
+      "inventory_changed": "2025-06-15 01:42:23 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk1": {
+    "criteria": {
+      "has_diamond": "2025-06-15 01:51:55 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {

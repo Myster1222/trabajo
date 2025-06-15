@@ -10230,79 +10230,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 01:39:58 +0000"
+      "log_spam_fixer": "2025-06-15 01:59:58 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-06-14 23:10:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
     },
     "done": true
   },
@@ -10378,6 +10384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-15 01:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2025-06-14 23:34:56 +0000"
@@ -10387,6 +10399,12 @@
   "reliquary:recipes/misc/midas_touchstone": {
     "criteria": {
       "has_molten_core": "2025-06-15 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
     },
     "done": true
   },
@@ -10432,6 +10450,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 01:53:32 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/conversions/aeternalis_fuel_to_mobius_fuel": {
     "criteria": {
       "has_aeternalis_fuel": "2025-06-14 23:46:22 +0000"
@@ -10456,6 +10486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 01:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-06-14 23:16:24 +0000"
@@ -10474,9 +10510,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-14 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-15 01:52:34 +0000"
     },
     "done": true
   },
@@ -10501,6 +10549,12 @@
   "minecraft:adventure/fall_from_world_height": {
     "criteria": {
       "fall_from_world_height": "2025-06-15 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
     },
     "done": true
   },
@@ -10600,6 +10654,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/klein_star_zwei": {
     "criteria": {
       "has_components": "2025-06-14 23:47:32 +0000"
@@ -10627,6 +10687,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-14 23:16:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
     },
     "done": true
   },
@@ -10663,6 +10729,12 @@
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-14 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
     },
     "done": true
   },
@@ -10720,6 +10792,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-14 23:16:24 +0000"
@@ -10747,6 +10825,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-14 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-06-15 01:42:02 +0000"
     },
     "done": true
   },
@@ -10831,6 +10915,18 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-15 00:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-06-15 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 01:53:32 +0000"
     },
     "done": true
   },
