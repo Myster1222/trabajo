@@ -1207,3 +1207,33 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 03:59:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
 [16Jun2025 03:59:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SHELDOC> les puedo ayudar a decorar?
 [16Jun2025 03:59:30.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Now You're Growing With Hoppers]
+[16Jun2025 04:05:11.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to SHELDOC]
+[16Jun2025 04:05:58.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Jun2025 04:07:13.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Jun2025 04:07:34.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b5c6629b-2855-3743-a573-3a0212864369 timed out
+[16Jun2025 04:07:34.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheForgottenNeo
+[16Jun2025 04:07:34.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 04:07:47.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 04:07:47.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[16Jun2025 04:07:48.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 04:07:48.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 04:07:54.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Timed out
+[16Jun2025 04:07:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[16Jun2025 04:07:54.190] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[16Jun2025 04:07:54.253] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jun2025 04:08:29.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:45657] logged in with entity id 18366 at (243.77010065210368, 125.0625, -755.414325867148)
+[16Jun2025 04:08:29.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[16Jun2025 04:08:30.139] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[16Jun2025 04:08:30.139] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 04:08:44.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 04:08:45.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 04:08:45.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 04:09:08.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SHELDOC moved wrongly!
+[16Jun2025 04:09:47.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[16Jun2025 04:10:46.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SHELDOC lost connection: Disconnected
+[16Jun2025 04:10:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SHELDOC left the game
+[16Jun2025 04:10:46.815] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SHELDOC
+[16Jun2025 04:13:13.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[16Jun2025 04:13:47.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Voluntary Exile]
+[16Jun2025 04:18:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[16Jun2025 04:19:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]

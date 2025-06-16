@@ -7941,6 +7941,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-16 03:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-06-16 03:19:58 +0000"
@@ -7950,6 +7956,18 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-16 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-06-16 04:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-06-16 04:01:03 +0000"
     },
     "done": true
   },
@@ -7965,9 +7983,21 @@
     },
     "done": true
   },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-06-16 03:59:30 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/hanging_lights": {
     "criteria": {
       "has_lights": "2025-06-16 03:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-06-16 04:01:03 +0000"
     },
     "done": true
   },
