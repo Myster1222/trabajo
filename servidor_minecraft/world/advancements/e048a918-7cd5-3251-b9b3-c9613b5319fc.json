@@ -3564,6 +3564,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-16 08:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-16 06:29:46 +0000"
@@ -3642,6 +3648,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-16 08:07:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-06-16 06:59:24 +0000"
@@ -3657,6 +3669,18 @@
   "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
     "criteria": {
       "has_sugar": "2025-06-16 05:42:09 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-16 08:07:19 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-16 08:07:19 +0000"
     },
     "done": true
   },
