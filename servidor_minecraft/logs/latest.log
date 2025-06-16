@@ -1864,3 +1864,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Jun2025 06:48:32.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> w
 [16Jun2025 06:48:37.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> ond ands
 [16Jun2025 06:54:02.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Ryuakachan]
+[16Jun2025 06:58:08.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laira122[/127.15.45.174:38347] logged in with entity id 97707 at (348.5870381170436, 144.0, -974.5552481170831)
+[16Jun2025 06:58:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 joined the game
+[16Jun2025 06:58:09.928] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Laira122 (18)
+[16Jun2025 06:58:09.928] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Laira122
+[16Jun2025 06:58:21.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 06:58:22.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 06:58:22.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Laira122 (91116d11-b61b-3e87-9353-90d47475ae8d) successfully connected to voice chat
+[16Jun2025 06:59:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported Ryuakachan to Laira122]
+[16Jun2025 07:00:05.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported Laira122 to ElSilverSito]
+[16Jun2025 07:04:17.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved too quickly! 7.87899559788309,-4.0,-4.8845789497547685

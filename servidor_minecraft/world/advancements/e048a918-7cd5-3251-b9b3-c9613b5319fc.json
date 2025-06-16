@@ -3641,6 +3641,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 06:59:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-06-16 05:42:23 +0000"
@@ -3650,6 +3656,12 @@
   "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
     "criteria": {
       "has_sugar": "2025-06-16 05:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-16 06:58:07 +0000"
     },
     "done": true
   },
