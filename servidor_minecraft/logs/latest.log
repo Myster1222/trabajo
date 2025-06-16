@@ -1246,3 +1246,45 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 04:27:09.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
 [16Jun2025 04:27:09.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
 [16Jun2025 04:27:45.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has completed the challenge [Centennial]
+[16Jun2025 04:30:53.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: Disconnected
+[16Jun2025 04:30:53.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[16Jun2025 04:30:53.932] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[16Jun2025 04:32:34.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laira122[/127.15.45.174:50899] logged in with entity id 32884 at (-860.8271207227165, 80.0, 95.51616264526058)
+[16Jun2025 04:32:34.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 joined the game
+[16Jun2025 04:32:36.458] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Laira122 (18)
+[16Jun2025 04:32:36.459] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Laira122
+[16Jun2025 04:32:47.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 04:32:48.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 04:32:48.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Laira122 (91116d11-b61b-3e87-9353-90d47475ae8d) successfully connected to voice chat
+[16Jun2025 04:33:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> tp plis
+[16Jun2025 04:35:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> ola
+[16Jun2025 04:35:12.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:43493] logged in with entity id 34114 at (225.33149982891481, 125.0, -755.6660855337732)
+[16Jun2025 04:35:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[16Jun2025 04:35:14.971] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[16Jun2025 04:35:14.971] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[16Jun2025 04:35:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> holaaa
+[16Jun2025 04:35:16.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> y silver?
+[16Jun2025 04:35:28.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> ya le regreso la luz
+[16Jun2025 04:35:29.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[16Jun2025 04:35:30.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[16Jun2025 04:35:30.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[16Jun2025 04:35:33.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> okok
+[16Jun2025 04:35:39.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[16Jun2025 04:35:44.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed 201 item(s) from player ElSilverSito]
+[16Jun2025 04:36:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[16Jun2025 04:36:36.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the time to 13000]
+[16Jun2025 04:36:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported Laira122 to ElSilverSito]
+[16Jun2025 04:39:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> memoris
+[16Jun2025 04:39:44.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> ymimochila?
+[16Jun2025 04:39:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> ?
+[16Jun2025 04:39:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> la borraste wey
+[16Jun2025 04:39:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> te hiciste clear
+[16Jun2025 04:39:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> nomames
+[16Jun2025 04:40:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> pendejo
+[16Jun2025 04:40:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> puta madre
+[16Jun2025 04:40:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> memorias aryoros vengan a mi serveur
+[16Jun2025 04:40:40.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> hay vc
+[16Jun2025 04:40:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> nmms
+[16Jun2025 04:40:55.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 lost connection: Disconnected
+[16Jun2025 04:40:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 left the game
+[16Jun2025 04:40:55.254] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Laira122
