@@ -1166,3 +1166,12 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 03:12:10.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 8.106919110451315,1.470272118416517,-7.186657654549549
 [16Jun2025 03:12:21.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
 [16Jun2025 03:12:31.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[16Jun2025 03:25:04.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:50693] logged in with entity id 3643 at (124.42469769113434, 107.0, -485.83415577069724)
+[16Jun2025 03:25:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[16Jun2025 03:25:07.112] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[16Jun2025 03:25:07.113] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 03:25:33.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 03:25:34.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 03:25:34.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 03:26:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 03:26:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
