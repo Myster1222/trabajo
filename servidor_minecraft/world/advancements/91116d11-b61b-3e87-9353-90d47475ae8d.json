@@ -5212,15 +5212,135 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "requirement": "2025-06-16 06:23:09 +0000"
+      "slept_in_bed": "2025-06-16 05:13:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "alexscaves:alexscaves/nuclear_bomb": {
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
-      "nuclear_bomb": "2025-06-16 06:15:50 +0000"
+      "anger_wizard": "2025-06-16 05:17:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-16 05:18:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 05:18:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-16 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-16 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-16 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-16 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-16 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-16 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcflurry": {
+    "criteria": {
+      "has_sugar": "2025-06-16 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/ketchup": {
+    "criteria": {
+      "has_sugar": "2025-06-16 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/sprite": {
+    "criteria": {
+      "has_sugar": "2025-06-16 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/coca_cola": {
+    "criteria": {
+      "has_sugar": "2025-06-16 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
+    "criteria": {
+      "has_sugar": "2025-06-16 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/fanta": {
+    "criteria": {
+      "has_sugar": "2025-06-16 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-06-16 05:47:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-16 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-16 05:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-16 05:51:15 +0000"
     },
     "done": true
   },
@@ -5260,27 +5380,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-06-16 05:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-16 05:13:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-06-16 05:19:50 +0000"
     },
     "done": true
   },
@@ -5290,39 +5392,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2025-06-16 05:51:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_bluff": {
-    "criteria": {
-      "bluff": "2025-06-16 05:47:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-06-16 05:42:14 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/mcflurry": {
-    "criteria": {
-      "has_sugar": "2025-06-16 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-06-16 05:42:14 +0000"
     },
     "done": true
   },
@@ -5350,18 +5422,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-06-16 05:19:50 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/ketchup": {
-    "criteria": {
-      "has_sugar": "2025-06-16 05:42:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
@@ -5380,12 +5440,6 @@
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/sprite": {
-    "criteria": {
-      "has_sugar": "2025-06-16 05:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
@@ -5398,21 +5452,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-06-16 05:18:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-06-16 06:03:49 +0000"
     },
     "done": true
   },
@@ -5422,27 +5464,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-16 05:51:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-06-16 05:18:23 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-06-16 05:19:50 +0000"
     },
     "done": true
   },
@@ -5458,21 +5482,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-06-16 05:18:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-16 05:54:57 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/coca_cola": {
-    "criteria": {
-      "has_sugar": "2025-06-16 05:42:47 +0000"
     },
     "done": true
   },
@@ -5506,12 +5518,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
-    "criteria": {
-      "anger_wizard": "2025-06-16 05:17:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
@@ -5530,12 +5536,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_acacia_trapdoor": "2025-06-16 06:04:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
@@ -5548,33 +5548,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-06-16 05:42:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-06-16 05:54:57 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
-    "criteria": {
-      "has_sugar": "2025-06-16 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-06-16 05:49:10 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/fanta": {
-    "criteria": {
-      "has_sugar": "2025-06-16 05:42:47 +0000"
     },
     "done": true
   },
@@ -5583,6 +5559,96 @@
       "has_wool": "2025-06-16 05:54:57 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-16 06:03:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-06-16 06:04:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-06-16 06:15:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 06:41:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

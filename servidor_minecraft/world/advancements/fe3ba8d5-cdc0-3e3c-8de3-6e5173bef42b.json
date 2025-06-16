@@ -8030,6 +8030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-16 06:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-16 06:10:25 +0000"
@@ -8045,6 +8051,12 @@
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2025-06-16 06:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-16 06:28:43 +0000"
     },
     "done": true
   },
