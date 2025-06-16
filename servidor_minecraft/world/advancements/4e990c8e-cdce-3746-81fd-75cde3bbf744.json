@@ -107,6 +107,7 @@
       "minecraft:forest": "2025-06-14 22:02:09 +0000",
       "minecraft:ocean": "2025-06-15 01:38:06 +0000",
       "minecraft:frozen_peaks": "2025-06-14 22:50:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-16 04:17:24 +0000",
       "minecraft:deep_dark": "2025-06-15 02:42:19 +0000",
       "minecraft:meadow": "2025-06-15 03:08:55 +0000",
       "minecraft:plains": "2025-06-14 22:23:12 +0000"
@@ -483,6 +484,7 @@
     "criteria": {
       "shrubland": "2025-06-14 22:06:09 +0000",
       "rocky_shrubland": "2025-06-14 22:04:20 +0000",
+      "scrubland": "2025-06-16 04:24:12 +0000",
       "highland": "2025-06-15 03:09:06 +0000",
       "jade_cliffs": "2025-06-15 03:08:46 +0000",
       "clover_patch": "2025-06-14 22:09:41 +0000",
@@ -2095,6 +2097,8 @@
     "criteria": {
       "minecraft:pillager": "2025-06-16 04:13:47 +0000",
       "minecraft:skeleton": "2025-06-15 01:40:03 +0000",
+      "minecraft:ravager": "2025-06-16 04:20:30 +0000",
+      "minecraft:vindicator": "2025-06-16 04:18:38 +0000",
       "minecraft:spider": "2025-06-15 03:10:56 +0000",
       "minecraft:creeper": "2025-06-15 03:10:53 +0000",
       "minecraft:zombie": "2025-06-16 03:50:08 +0000"
@@ -2653,6 +2657,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-16 04:20:46 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/gold_platform": {
     "criteria": {
       "has_gold": "2025-06-16 04:02:15 +0000"
@@ -2686,6 +2696,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-16 04:11:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-16 04:27:45 +0000"
     },
     "done": true
   },
