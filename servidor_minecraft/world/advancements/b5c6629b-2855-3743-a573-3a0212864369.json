@@ -11086,9 +11086,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2025-06-16 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inv_double_slope_slab_rotate_to_framed_inv_double_slope_panel": {
+    "criteria": {
+      "hasFramedInvDoubleSlopeSlab": "2025-06-16 03:43:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
     },
     "done": true
   },
@@ -11098,9 +11122,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_stacked_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-06-16 03:38:59 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_slope_slab": {
     "criteria": {
       "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-16 03:38:07 +0000"
     },
     "done": true
   },
@@ -11119,6 +11155,18 @@
   "framedblocks:recipes/building_blocks/framed_double_slope": {
     "criteria": {
       "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
     },
     "done": true
   },
@@ -11176,6 +11224,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_flat_inner_slope_panel_corner_rotate_to_framed_flat_inner_slope_slab_corner": {
     "criteria": {
       "hasFramedFlatInnerSlopePanelCorner": "2025-06-16 03:29:22 +0000"
@@ -11194,6 +11248,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_post": {
     "criteria": {
       "hasFramedFence": "2025-06-16 03:32:28 +0000"
@@ -11206,15 +11266,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs_rotate_to_framed_stairs": {
+    "criteria": {
+      "hasFramedVerticalStairs": "2025-06-16 03:37:28 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-06-16 03:29:36 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_elevated_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-06-16 03:38:59 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
     },
     "done": true
   },
@@ -11242,6 +11326,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_double_stairs": {
+    "criteria": {
+      "hasFramedVerticalStairs": "2025-06-16 03:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2025-06-16 03:28:47 +0000"
@@ -11251,6 +11359,24 @@
   "framedblocks:recipes/building_blocks/framed_flat_ext_inner_slope_panel_corner": {
     "criteria": {
       "hasFramedFlatInnerSlopePanelCorner": "2025-06-16 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_half_stairs": {
+    "criteria": {
+      "hasFramedVerticalStairs": "2025-06-16 03:37:28 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slope_slab_from_inverse": {
+    "criteria": {
+      "hasFramedInvDoubleSlopeSlab": "2025-06-16 03:43:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
     },
     "done": true
   },
@@ -11278,6 +11404,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-06-16 03:33:40 +0000"
@@ -11290,9 +11434,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_elevated_double_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-06-16 03:38:59 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
     "criteria": {
       "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-06-16 03:40:13 +0000"
     },
     "done": true
   },
