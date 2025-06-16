@@ -1928,3 +1928,90 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Jun2025 07:28:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
 [16Jun2025 07:28:46.113] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
 [16Jun2025 07:33:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to Laira122]
+[16Jun2025 07:36:32.968] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[16Jun2025 07:36:53.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jun2025 07:37:00.305] [Server thread/INFO] [naturescompass/]: Search succeeded: 5810 radius, 16392 samples
+[16Jun2025 07:37:10.868] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[16Jun2025 07:37:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> eu
+[16Jun2025 07:37:32.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> brodi
+[16Jun2025 07:37:34.116] [Server thread/INFO] [naturescompass/]: Search succeeded: 5819 radius, 16393 samples
+[16Jun2025 07:37:39.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> vamos a buscar un pantano
+[16Jun2025 07:37:39.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 07:37:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> te apuntas??
+[16Jun2025 07:38:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to Ryuakachan]
+[16Jun2025 07:38:20.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to Laira122]
+[16Jun2025 07:41:30.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved too quickly! 7.959694252420945,0.0,-6.119078612634553
+[16Jun2025 07:42:07.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> -6488 -744
+[16Jun2025 07:43:25.111] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3017, y=16, z=-148}
+[16Jun2025 07:43:36.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[16Jun2025 07:43:53.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[16Jun2025 07:44:14.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 lost connection: Disconnected
+[16Jun2025 07:44:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 left the game
+[16Jun2025 07:44:14.242] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Laira122
+[16Jun2025 07:45:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> que paso con laira??
+[16Jun2025 07:45:30.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> se le crasheo
+[16Jun2025 07:45:31.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> me quede aca
+[16Jun2025 07:45:32.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> ahora entra
+[16Jun2025 07:45:33.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> NO
+[16Jun2025 07:45:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> LKAJFA
+[16Jun2025 07:45:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> PIPIPI
+[16Jun2025 07:45:43.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> la espero
+[16Jun2025 07:45:56.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> si
+[16Jun2025 07:46:32.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laira122[/127.15.45.174:57019] logged in with entity id 113684 at (-3160.2257196778523, 155.54403686523438, -244.1170617948089)
+[16Jun2025 07:46:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 joined the game
+[16Jun2025 07:46:33.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Laira122 (18)
+[16Jun2025 07:46:33.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Laira122
+[16Jun2025 07:46:44.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 07:46:45.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 07:46:45.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Laira122 (91116d11-b61b-3e87-9353-90d47475ae8d) successfully connected to voice chat
+[16Jun2025 07:47:05.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[16Jun2025 07:47:21.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Jun2025 07:47:39.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[16Jun2025 07:48:04.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[16Jun2025 07:48:04.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Laira122) moved wrongly! 0.9409934513591907
+[16Jun2025 07:48:04.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Laira122) moved wrongly! 0.4637271579381377
+[16Jun2025 07:48:06.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[16Jun2025 07:48:35.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Jun2025 07:48:46.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[16Jun2025 07:48:50.195] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[16Jun2025 07:48:50.195] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[16Jun2025 07:48:57.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[16Jun2025 07:49:12.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[16Jun2025 07:49:23.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> e
+[16Jun2025 07:49:25.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 07:49:27.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> encontramos algo
+[16Jun2025 07:49:34.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to Ryuakachan]
+[16Jun2025 07:49:49.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to Laira122]
+[16Jun2025 07:49:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported Ryuakachan to TheForgottenNeo]
+[16Jun2025 07:50:19.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> xaero-waypoint:lugar de trabajo:T:363:154:-958:5:false:0:Internal-overworld-waypoints
+[16Jun2025 07:53:37.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 lost connection: Disconnected
+[16Jun2025 07:53:37.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 left the game
+[16Jun2025 07:53:37.110] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Laira122
+[16Jun2025 07:54:29.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[16Jun2025 07:54:29.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[16Jun2025 07:54:29.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[16Jun2025 07:54:40.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:54881] logged in with entity id 118091 at (-3928.735979928774, 167.5625, -303.3552680359413)
+[16Jun2025 07:54:40.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[16Jun2025 07:54:41.220] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[16Jun2025 07:54:41.220] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 07:54:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el chico se fue por que es algo tanto
+[16Jun2025 07:54:55.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 07:54:56.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 07:54:56.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 07:54:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dale un segundo
+[16Jun2025 07:55:21.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no te puedo escuchar pero se que hablaste de mi
+[16Jun2025 07:56:40.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[16Jun2025 07:58:14.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laira122[/127.15.45.174:52433] logged in with entity id 118519 at (-3925.4856287958846, 189.60243329661682, -301.02074178888273)
+[16Jun2025 07:58:14.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 joined the game
+[16Jun2025 07:58:16.010] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Laira122 (18)
+[16Jun2025 07:58:16.010] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Laira122
+[16Jun2025 07:58:27.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 07:58:28.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 07:58:28.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Laira122 (91116d11-b61b-3e87-9353-90d47475ae8d) successfully connected to voice chat
+[16Jun2025 08:01:12.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[16Jun2025 08:01:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 has made the advancement [Take Aim]
+[16Jun2025 08:04:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[16Jun2025 08:04:31.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 363.500000, 154.500000, -957.500000]
+[16Jun2025 08:04:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported Ryuakachan to TheForgottenNeo]
+[16Jun2025 08:04:44.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to Laira122]
+[16Jun2025 08:04:54.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
