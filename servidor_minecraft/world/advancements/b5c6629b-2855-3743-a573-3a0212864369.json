@@ -11660,15 +11660,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tconstruct:world/sky_island": {
     "criteria": {
-      "requirement": "2025-06-16 07:13:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-16 06:27:56 +0000"
+      "found_island": "2025-06-16 05:53:13 +0000"
     },
     "done": true
   },
@@ -11678,21 +11672,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-16 05:54:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-06-16 06:03:03 +0000"
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_large_button": {
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
-      "hasFramedButton": "2025-06-16 06:12:04 +0000"
+      "has_acacia_trapdoor": "2025-06-16 06:10:36 +0000"
     },
     "done": true
   },
-  "tconstruct:world/sky_island": {
+  "framedblocks:recipes/building_blocks/framed_large_button": {
     "criteria": {
-      "found_island": "2025-06-16 05:53:13 +0000"
+      "hasFramedButton": "2025-06-16 06:12:04 +0000"
     },
     "done": true
   },
@@ -11708,15 +11708,9 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/cave_book": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "cave_book": "2025-06-16 05:54:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_acacia_trapdoor": "2025-06-16 06:10:36 +0000"
+      "has_snowball": "2025-06-16 06:27:56 +0000"
     },
     "done": true
   },
@@ -11725,6 +11719,12 @@
       "has_snowball": "2025-06-16 06:27:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-16 07:23:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

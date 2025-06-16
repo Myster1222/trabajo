@@ -1882,3 +1882,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Jun2025 07:12:46.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved too quickly! 9.105673115074296,1.176759275064228,4.530376312469116
 [16Jun2025 07:13:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
 [16Jun2025 07:13:58.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 07:16:01.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[16Jun2025 07:16:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[16Jun2025 07:16:01.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[16Jun2025 07:16:12.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:40497] logged in with entity id 101445 at (350.5982755244824, 140.0, -989.9578070338825)
+[16Jun2025 07:16:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[16Jun2025 07:16:12.787] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[16Jun2025 07:16:12.788] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 07:16:25.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 07:16:26.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 07:16:26.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 07:17:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> es fan de las tuais
+[16Jun2025 07:18:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> xd
+[16Jun2025 07:18:55.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 lost connection: Disconnected
+[16Jun2025 07:18:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 left the game
+[16Jun2025 07:18:55.359] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Laira122
+[16Jun2025 07:19:13.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[16Jun2025 07:23:45.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b timed out
+[16Jun2025 07:23:45.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ElSilverSito
+[16Jun2025 07:23:45.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[16Jun2025 07:23:51.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Timed out
+[16Jun2025 07:23:51.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[16Jun2025 07:23:51.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
