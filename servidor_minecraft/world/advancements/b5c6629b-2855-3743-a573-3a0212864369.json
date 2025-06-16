@@ -11086,11 +11086,221 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
-      "requirement": "2025-06-16 03:25:33 +0000"
+      "has_purple_wool": "2025-06-16 03:28:47 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2025-06-16 03:29:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_edge": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-06-16 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flat_stacked_inner_slope_panel_corner": {
+    "criteria": {
+      "hasFramedFlatInnerSlopePanelCorner": "2025-06-16 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-06-16 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flat_inner_slope_panel_corner_rotate_to_framed_flat_inner_slope_slab_corner": {
+    "criteria": {
+      "hasFramedFlatInnerSlopePanelCorner": "2025-06-16 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_post": {
+    "criteria": {
+      "hasFramedFence": "2025-06-16 03:32:28 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_panel": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_strip_from_framed_floor_board": {
+    "criteria": {
+      "hasFramedFloorBoard": "2025-06-16 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-06-16 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flat_ext_inner_slope_panel_corner": {
+    "criteria": {
+      "hasFramedFlatInnerSlopePanelCorner": "2025-06-16 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board_rotate_to_framed_wall_board": {
+    "criteria": {
+      "hasFramedFloorBoard": "2025-06-16 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-06-16 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_threeway_corner_pillar": {
+    "criteria": {
+      "hasFramedThreewayCornerPillar": "2025-06-16 03:33:16 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-06-16 03:29:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
