@@ -11158,6 +11158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 03:45:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-16 03:40:13 +0000"
@@ -11221,6 +11227,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-06-16 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-16 03:45:52 +0000"
     },
     "done": true
   },
@@ -11359,6 +11371,12 @@
   "framedblocks:recipes/building_blocks/framed_flat_ext_inner_slope_panel_corner": {
     "criteria": {
       "hasFramedFlatInnerSlopePanelCorner": "2025-06-16 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/hanging_lights": {
+    "criteria": {
+      "has_lights": "2025-06-16 03:47:17 +0000"
     },
     "done": true
   },

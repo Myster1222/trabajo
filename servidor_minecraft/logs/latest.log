@@ -1190,3 +1190,20 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 03:48:31.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
 [16Jun2025 03:48:41.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/8262, l='ServerLevel[world]', x=-300.58, y=21.00, z=-915.14] died, message: 'Golem Healer was slain by Zombie'
 [16Jun2025 03:48:41.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/8262, l='ServerLevel[world]', x=-300.58, y=21.00, z=-915.14] died: Golem Healer was slain by Zombie
+[16Jun2025 03:52:37.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SHELDOC[/127.109.196.190:40421] logged in with entity id 9694 at (0.5, 75.0, 2.5)
+[16Jun2025 03:52:37.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SHELDOC joined the game
+[16Jun2025 03:52:38.689] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SHELDOC (18)
+[16Jun2025 03:52:38.690] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SHELDOC
+[16Jun2025 03:52:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported SHELDOC to ElSilverSito]
+[16Jun2025 03:52:48.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4d3d52c9-bfa8-3965-83e3-d80f45d4d135
+[16Jun2025 03:52:49.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4d3d52c9-bfa8-3965-83e3-d80f45d4d135
+[16Jun2025 03:52:49.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SHELDOC (4d3d52c9-bfa8-3965-83e3-d80f45d4d135) successfully connected to voice chat
+[16Jun2025 03:53:25.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SHELDOC has made the advancement [Monster Hunter]
+[16Jun2025 03:53:32.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SHELDOC has made the advancement [Stone Age]
+[16Jun2025 03:54:26.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SHELDOC> PORQUE no se ve mi skin personalizada del menu?
+[16Jun2025 03:54:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SHELDOC> :v
+[16Jun2025 03:56:47.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[16Jun2025 03:58:49.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[16Jun2025 03:59:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[16Jun2025 03:59:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SHELDOC> les puedo ayudar a decorar?
+[16Jun2025 03:59:30.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Now You're Growing With Hoppers]
