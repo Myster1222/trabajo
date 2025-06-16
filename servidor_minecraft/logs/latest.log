@@ -1288,3 +1288,44 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 04:40:55.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 lost connection: Disconnected
 [16Jun2025 04:40:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 left the game
 [16Jun2025 04:40:55.254] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Laira122
+[16Jun2025 04:41:12.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[16Jun2025 04:42:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> yoros
+[16Jun2025 04:42:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> tetepeamos?
+[16Jun2025 04:42:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[16Jun2025 04:43:08.043] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13f835ae[id=<null>,name=Laira122,properties={},legacy=false] (/127.15.45.174:47217) lost connection: Disconnected
+[16Jun2025 04:43:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> join the group
+[16Jun2025 04:43:42.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@761399a1[id=<null>,name=Laira122,properties={},legacy=false] (/127.15.45.174:55069) lost connection: Disconnected
+[16Jun2025 04:44:19.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> join the group
+[16Jun2025 04:44:26.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[16Jun2025 04:45:55.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laira122[/127.15.45.174:42539] logged in with entity id 37779 at (-861.6897121285075, 80.0, 96.1632924370533)
+[16Jun2025 04:45:55.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 joined the game
+[16Jun2025 04:45:56.913] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Laira122 (18)
+[16Jun2025 04:45:56.913] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Laira122
+[16Jun2025 04:46:08.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 04:46:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 04:46:09.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 91116d11-b61b-3e87-9353-90d47475ae8d
+[16Jun2025 04:46:09.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Laira122 (91116d11-b61b-3e87-9353-90d47475ae8d) successfully connected to voice chat
+[16Jun2025 04:46:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> mande
+[16Jun2025 04:46:43.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> ESTOY EN LLAMADA CXON EL
+[16Jun2025 04:47:12.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[16Jun2025 04:47:14.623] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[16Jun2025 04:47:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[16Jun2025 04:47:33.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[16Jun2025 04:47:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[16Jun2025 04:48:19.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> ya le dijee que activara el chat
+[16Jun2025 04:48:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Laira122> haz como si le fueras a enseeñar algo del mahou
+[16Jun2025 04:48:54.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> okay
+[16Jun2025 04:49:08.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ryuakachan[/127.233.184.7:41237] logged in with entity id 39551 at (-859.2197693579735, 82.0, 93.57440307281095)
+[16Jun2025 04:49:08.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryuakachan joined the game
+[16Jun2025 04:49:10.105] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ryuakachan (18)
+[16Jun2025 04:49:10.106] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ryuakachan
+[16Jun2025 04:49:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the time to 13000]
+[16Jun2025 04:49:22.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 04:49:32.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e048a918-7cd5-3251-b9b3-c9613b5319fc
+[16Jun2025 04:49:33.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e048a918-7cd5-3251-b9b3-c9613b5319fc
+[16Jun2025 04:49:33.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ryuakachan (e048a918-7cd5-3251-b9b3-c9613b5319fc) successfully connected to voice chat
+[16Jun2025 04:50:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[16Jun2025 04:50:12.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[16Jun2025 04:50:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[16Jun2025 04:51:05.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported Laira122 to ElSilverSito]
+[16Jun2025 04:51:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported Ryuakachan to ElSilverSito]
