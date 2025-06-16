@@ -104,6 +104,7 @@
       "minecraft:river": "2025-06-13 05:39:38 +0000",
       "minecraft:stony_shore": "2025-06-14 10:01:28 +0000",
       "minecraft:dripstone_caves": "2025-06-13 06:49:59 +0000",
+      "minecraft:grove": "2025-06-16 06:18:31 +0000",
       "minecraft:cold_ocean": "2025-06-16 05:54:20 +0000",
       "minecraft:forest": "2025-06-13 05:29:58 +0000",
       "minecraft:deep_cold_ocean": "2025-06-16 05:53:08 +0000",
@@ -11680,6 +11681,12 @@
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2025-06-16 05:53:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_mini_cube": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 06:13:13 +0000"
     },
     "done": true
   },

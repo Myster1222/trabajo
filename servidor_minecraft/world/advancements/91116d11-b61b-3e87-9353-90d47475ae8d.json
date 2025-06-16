@@ -5214,9 +5214,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-16 06:12:49 +0000"
+      "requirement": "2025-06-16 06:23:09 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-06-16 06:15:50 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
