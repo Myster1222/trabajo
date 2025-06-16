@@ -1445,3 +1445,116 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 05:20:22.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
 [16Jun2025 05:21:25.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [16Jun2025 05:21:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> que explotaron?
+[16Jun2025 05:21:55.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[16Jun2025 05:22:09.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> nadap chance cargaron chunks de donde esta la base del yoros, hay como 2 nukes precargadas
+[16Jun2025 05:22:12.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.5953704515632694,-2.5377479086373,-10.269394299284727
+[16Jun2025 05:22:15.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[16Jun2025 05:22:17.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
+[16Jun2025 05:22:19.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Applied effect Invisibility to ElSilverSito]
+[16Jun2025 05:22:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:22:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> pueeeede
+[16Jun2025 05:22:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> smn
+[16Jun2025 05:23:16.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16Jun2025 05:23:37.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Jun2025 05:23:54.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[16Jun2025 05:24:14.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4678ms or 93 ticks behind
+[16Jun2025 05:24:32.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[16Jun2025 05:24:36.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
+[16Jun2025 05:24:45.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[16Jun2025 05:24:53.347] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Jun2025 05:24:57.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5655ms or 113 ticks behind
+[16Jun2025 05:25:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[16Jun2025 05:25:17.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[16Jun2025 05:25:38.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5880ms or 117 ticks behind
+[16Jun2025 05:26:01.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7850ms or 157 ticks behind
+[16Jun2025 05:26:24.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8235ms or 164 ticks behind
+[16Jun2025 05:26:43.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4692ms or 93 ticks behind
+[16Jun2025 05:27:04.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[16Jun2025 05:27:08.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:27:10.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:27:38.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -5.603088473542854,5.304158928953598,6.679531675074713
+[16Jun2025 05:27:41.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21924ms or 438 ticks behind
+[16Jun2025 05:28:01.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[16Jun2025 05:29:22.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> chicos
+[16Jun2025 05:29:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> en todo caso
+[16Jun2025 05:29:32.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> si encuentran ojos de ender
+[16Jun2025 05:29:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> pero especiales nos avisan que eso es lo que necesitamos para encender el portal
+[16Jun2025 05:30:16.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jun2025 05:32:13.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:32:36.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:32:38.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:33:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was shot by TheForgottenNeo
+[16Jun2025 05:33:26.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:33:28.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:33:31.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[16Jun2025 05:33:54.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16Jun2025 05:34:11.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[16Jun2025 05:34:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:35:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[16Jun2025 05:35:59.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16Jun2025 05:36:18.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16Jun2025 05:39:12.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Jun2025 05:40:53.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:40:56.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:40:58.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[16Jun2025 05:40:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[16Jun2025 05:40:58.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[16Jun2025 05:41:12.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:42939] logged in with entity id 65507 at (74.06912184911059, 104.0, -488.4625238958464)
+[16Jun2025 05:41:12.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[16Jun2025 05:41:12.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[16Jun2025 05:41:12.347] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 05:41:25.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 05:41:26.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 05:41:26.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 05:42:25.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:45:12.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:45:56.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:46:55.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new entity.mowziesmobs.solar_beam]
+[16Jun2025 05:47:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 has made the advancement [Called Your Bluff]
+[16Jun2025 05:47:12.935] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException
+[16Jun2025 05:47:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryuakachan has completed the challenge [Centennial]
+[16Jun2025 05:48:57.037] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:frozen_peaks took 16 ms
+[16Jun2025 05:48:59.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to 541.500000, 229.000000, -992.500000]
+[16Jun2025 05:49:07.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:49:10.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 has completed the challenge [Centennial]
+[16Jun2025 05:49:29.615] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:frozen_peaks took 5 ms
+[16Jun2025 05:49:52.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 10.35859868043724,-3.5877966925021667,-0.49269432046673955
+[16Jun2025 05:50:12.793] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:frozen_peaks took 44 ms
+[16Jun2025 05:50:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:50:43.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Clay Island]
+[16Jun2025 05:51:19.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:51:45.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[16Jun2025 05:51:56.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[16Jun2025 05:51:59.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Jun2025 05:52:16.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -10.483828057915389,-0.30562877972599267,1.8151045925039853
+[16Jun2025 05:52:18.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind

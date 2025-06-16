@@ -16872,3 +16872,453 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [16Jun2025 05:20:39.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jun2025 05:21:25.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [16Jun2025 05:21:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> que explotaron?
+[16Jun2025 05:21:55.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[16Jun2025 05:22:09.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> nadap chance cargaron chunks de donde esta la base del yoros, hay como 2 nukes precargadas
+[16Jun2025 05:22:12.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -1.5953704515632694,-2.5377479086373,-10.269394299284727
+[16Jun2025 05:22:15.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[16Jun2025 05:22:17.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
+[16Jun2025 05:22:19.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Applied effect Invisibility to ElSilverSito]
+[16Jun2025 05:22:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:22:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ryuakachan> pueeeede
+[16Jun2025 05:22:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> smn
+[16Jun2025 05:23:16.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16Jun2025 05:23:37.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Jun2025 05:23:54.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[16Jun2025 05:24:14.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4678ms or 93 ticks behind
+[16Jun2025 05:24:32.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[16Jun2025 05:24:36.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
+[16Jun2025 05:24:45.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[16Jun2025 05:24:53.347] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Jun2025 05:24:57.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5655ms or 113 ticks behind
+[16Jun2025 05:25:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[16Jun2025 05:25:17.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[16Jun2025 05:25:38.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5880ms or 117 ticks behind
+[16Jun2025 05:26:01.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7850ms or 157 ticks behind
+[16Jun2025 05:26:24.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8235ms or 164 ticks behind
+[16Jun2025 05:26:43.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4692ms or 93 ticks behind
+[16Jun2025 05:26:47.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 05:26:47.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 05:27:04.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[16Jun2025 05:27:08.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:27:10.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:27:14.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:27:37.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:27:38.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -5.603088473542854,5.304158928953598,6.679531675074713
+[16Jun2025 05:27:41.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21924ms or 438 ticks behind
+[16Jun2025 05:27:43.350] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of ElSilverSito: {disabled=false, disconnected=false, uuid=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b, name=ElSilverSito, group=null}
+[16Jun2025 05:27:49.475] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ElSilverSito: {disabled=true, disconnected=false, uuid=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b, name=ElSilverSito, group=null}
+[16Jun2025 05:27:54.349] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of TheForgottenNeo: {disabled=false, disconnected=false, uuid=b5c6629b-2855-3743-a573-3a0212864369, name=TheForgottenNeo, group=null}
+[16Jun2025 05:28:01.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[16Jun2025 05:28:10.108] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:28:34.167] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:29:10.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:29:22.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> chicos
+[16Jun2025 05:29:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> en todo caso
+[16Jun2025 05:29:32.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> si encuentran ojos de ender
+[16Jun2025 05:29:36.390] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:29:36.631] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:29:53.491] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:29:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> pero especiales nos avisan que eso es lo que necesitamos para encender el portal
+[16Jun2025 05:30:08.050] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[16Jun2025 05:30:08.112] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[16Jun2025 05:30:16.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jun2025 05:30:42.564] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:30:58.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[16Jun2025 05:32:13.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:32:20.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 05:32:20.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 05:32:36.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:32:38.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:33:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was shot by TheForgottenNeo
+[16Jun2025 05:33:13.997] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[16Jun2025 05:33:14.274] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750051994247
+[16Jun2025 05:33:26.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:33:28.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:33:31.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[16Jun2025 05:33:54.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16Jun2025 05:34:11.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[16Jun2025 05:34:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:34:36.364] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ElSilverSito: {disabled=false, disconnected=false, uuid=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b, name=ElSilverSito, group=null}
+[16Jun2025 05:35:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[16Jun2025 05:35:59.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16Jun2025 05:36:18.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16Jun2025 05:37:13.680] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Laira122: {disabled=true, disconnected=false, uuid=91116d11-b61b-3e87-9353-90d47475ae8d, name=Laira122, group=null}
+[16Jun2025 05:37:14.210] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Laira122: {disabled=false, disconnected=false, uuid=91116d11-b61b-3e87-9353-90d47475ae8d, name=Laira122, group=null}
+[16Jun2025 05:37:18.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Laira122: {disabled=true, disconnected=false, uuid=91116d11-b61b-3e87-9353-90d47475ae8d, name=Laira122, group=null}
+[16Jun2025 05:37:30.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 05:37:30.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 05:39:12.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Jun2025 05:40:53.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laira122 moved wrongly!
+[16Jun2025 05:40:56.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryuakachan moved wrongly!
+[16Jun2025 05:40:58.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[16Jun2025 05:40:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[16Jun2025 05:40:58.428] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TheForgottenNeo
+[16Jun2025 05:40:58.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[16Jun2025 05:41:06.262] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 45 messages to dispatch.
+[16Jun2025 05:41:06.273] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[16Jun2025 05:41:06.319] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[16Jun2025 05:41:06.330] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[16Jun2025 05:41:06.330] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[16Jun2025 05:41:06.330] [Netty Epoll Server IO #7/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[16Jun2025 05:41:06.371] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[16Jun2025 05:41:06.420] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[16Jun2025 05:41:06.433] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[16Jun2025 05:41:06.433] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[16Jun2025 05:41:06.433] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [kuma_api, fabric_renderer_api_v1, disenchanting_table, playeranimator, fabric_item_api_v1, hamsters, fabric_rendering_fluids_v1, fabric_models_v0, projecte, incendium, immersive_aircraft, sophisticatedcore, fabric_convention_tags_v1, xaeroworldmap, betterendcities, citadel, alexsmobs, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, fabric_data_attachment_api_v1, yungsapi, mixinextras, bookshelf, sophisticatedbackpacks, guardvillagers, balm, fabric_screen_api_v1, carryon, sodiumoptionsapi, chat_heads, cloth_config, crash_assistant, fabric_api, fabric_content_registries_v0, emojiful, sodiumdynamiclights, embeddium, rubidium, advancementplaques, farmersdelight, entity_texture_features, fabric_game_rule_api_v1, fabric_api_lookup_api_v1, gml, botanytrees, endrem, ironfurnaces, clay, simplylight, resourcefulconfig, fairylights, mr_tidal_towns, curios, commongroovylibrary, advancednetherite, ftbultimine, connectormod, fabric_entity_events_v1, resourcefullib, eatinganimation, sodiumoptionsmodcompat, architectury, otyacraftengine, iammusicplayer, fabric_loot_api_v2, flib, betterendisland, fabric_rendering_data_attachment_v1, monolib, fabric_networking_api_v1, framework, fallingtree, fabric_lifecycle_events_v1, veinmining, enchantinginfuser, fabric_key_binding_api_v1, essential, fabric_client_tags_api_v1, fabric_transfer_api_v1, fabric_dimensions_v1, mowziesmobs, geckolib, wither_drops_netherite_templates, ftblibrary, bettermcdonaldsmod, fabric_model_loading_api_v1, jei, tacz, fabric_screen_handler_api_v1, fabric_resource_loader_v0, jellyfishing, goblintraders, caelus, fabric_rendering_v1, waystones, fabric_renderer_indigo, fabric_mining_level_api_v1, artifacts, naturescompass, outer_end, botanypots, myserveriscompatible, dungeoncrawl, make_bubbles_pop, jellyfishingdelight, explorerscompass, mahoutsukai, betterjukebox, blueprint, watut, fabric_particles_v1, puzzlesaccessapi, skinlayers3d, forge, fabric_transitive_access_wideners_v1, ironchest, tectonic, tconstruct, minecraft, villagergolemhealer, protection_pixel, portable_blueprints, alexscaves, voicechat, sound_physics_remastered, trade_cycling, moonlight, endermanoverhaul, terrablender, biomesoplenty, fabric_api_base, mousetweaks, titanium, fabric_blockrenderlayer_v1, jade, creativecore, spectrelib, fabric_block_api_v1, fabric_resource_conditions_api_v1, easy_villagers, iceberg, notenoughanimations, flywheel, ponder, create, framedblocks, reliquary, mantle, xaerominimap, lexiconfig, fabric_item_group_api_v1, bhc, securitycraft, irons_spellbooks, fabric_biome_api_v1, buildinggadgets2, fabric_registry_sync_v0, coroutil, continuity, create_kart, appleskin, fabric_recipe_api_v1, lootr, fabric_object_builder_api_v1, functionalstorage, puzzleslib, elementaryores, fabric_sound_api_v1, fabric_message_api_v1, expandability, cosmeticarmorreworked, create_oppenheimered, phantasm, skinrestorer, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[16Jun2025 05:41:06.434] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[16Jun2025 05:41:06.434] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'protection_pixel:protection_pixel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.434] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ponder:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'projecte:main_channel' : Version test of '4' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'buildinggadgets2:main_network_channel' : Version test of '2' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'veinmining:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mantle:network' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fairylights:net' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironfurnaces:ironfurnaces_network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'portable_blueprints:portable_blueprints' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tconstruct:network' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Version test of '1.0.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:1' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'functionalstorage:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'disenchanting_table:disenchanting_table' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_kart:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'reliquary:channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mahoutsukai:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'portable_blueprints:main' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[16Jun2025 05:41:06.437] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'titanium:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wither_drops_netherite_templates:wither_drops_netherite_templates' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framedblocks:main' : Version test of '3' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'villagergolemhealer:villagergolemhealer' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_kart:create_kart' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[16Jun2025 05:41:06.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[16Jun2025 05:41:06.454] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[16Jun2025 05:41:06.454] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.454] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.470] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 4
+[16Jun2025 05:41:06.507] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[16Jun2025 05:41:06.507] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.507] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[16Jun2025 05:41:06.570] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[16Jun2025 05:41:06.620] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[16Jun2025 05:41:06.631] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[16Jun2025 05:41:06.631] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.631] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.669] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[16Jun2025 05:41:06.709] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 9
+[16Jun2025 05:41:06.768] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry fairylights:connection_type' to 'fml:handshake' sequence 10
+[16Jun2025 05:41:06.811] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 11
+[16Jun2025 05:41:06.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[16Jun2025 05:41:06.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[16Jun2025 05:41:06.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[16Jun2025 05:41:06.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[16Jun2025 05:41:06.892] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.893] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[16Jun2025 05:41:06.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[16Jun2025 05:41:06.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:06.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:06.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry framedblocks:camo_containers' to 'fml:handshake' sequence 13
+[16Jun2025 05:41:06.962] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[16Jun2025 05:41:07.013] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry clay:upgrades' to 'fml:handshake' sequence 15
+[16Jun2025 05:41:07.039] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[16Jun2025 05:41:07.039] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.039] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.066] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[16Jun2025 05:41:07.066] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[16Jun2025 05:41:07.066] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.066] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.066] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[16Jun2025 05:41:07.066] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.066] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.126] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 17
+[16Jun2025 05:41:07.165] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[16Jun2025 05:41:07.165] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.165] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 18
+[16Jun2025 05:41:07.211] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 19
+[16Jun2025 05:41:07.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[16Jun2025 05:41:07.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.264] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 20
+[16Jun2025 05:41:07.264] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[16Jun2025 05:41:07.264] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.264] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.311] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[16Jun2025 05:41:07.311] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.311] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.312] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 21
+[16Jun2025 05:41:07.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 22
+[16Jun2025 05:41:07.415] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 23
+[16Jun2025 05:41:07.452] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[16Jun2025 05:41:07.452] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.452] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.460] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry fairylights:string_type' to 'fml:handshake' sequence 24
+[16Jun2025 05:41:07.460] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[16Jun2025 05:41:07.460] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.460] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.500] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[16Jun2025 05:41:07.500] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.500] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.500] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[16Jun2025 05:41:07.500] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.500] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.514] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 25
+[16Jun2025 05:41:07.556] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[16Jun2025 05:41:07.556] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.556] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.564] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 26
+[16Jun2025 05:41:07.586] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[16Jun2025 05:41:07.586] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.586] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.623] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 27
+[16Jun2025 05:41:07.666] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ProjectE/processing.toml' to 'fml:handshake' sequence 28
+[16Jun2025 05:41:07.675] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[16Jun2025 05:41:07.675] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:07.675] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:07.711] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config bhc-server.toml' to 'fml:handshake' sequence 29
+[16Jun2025 05:41:07.763] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 30
+[16Jun2025 05:41:07.813] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easy_villagers-server.toml' to 'fml:handshake' sequence 31
+[16Jun2025 05:41:07.860] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config advancednetherite-server.toml' to 'fml:handshake' sequence 32
+[16Jun2025 05:41:07.909] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mantle-server.toml' to 'fml:handshake' sequence 33
+[16Jun2025 05:41:07.965] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 34
+[16Jun2025 05:41:08.013] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config framedblocks-server.toml' to 'fml:handshake' sequence 35
+[16Jun2025 05:41:08.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 36
+[16Jun2025 05:41:08.113] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 37
+[16Jun2025 05:41:08.165] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 38
+[16Jun2025 05:41:08.214] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ProjectE/server.toml' to 'fml:handshake' sequence 39
+[16Jun2025 05:41:08.272] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mahoutsukai-server.toml' to 'fml:handshake' sequence 40
+[16Jun2025 05:41:08.313] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 41
+[16Jun2025 05:41:08.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 42
+[16Jun2025 05:41:08.419] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 43
+[16Jun2025 05:41:08.465] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 44
+[16Jun2025 05:41:11.724] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[16Jun2025 05:41:11.724] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.724] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.765] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 05:41:11.766] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 05:41:11.813] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[16Jun2025 05:41:11.869] [ForkJoinPool.commonPool-worker-33/DEBUG] [SkinRestorer/]: Fetching TheForgottenNeo's skin
+[16Jun2025 05:41:12.062] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[16Jun2025 05:41:12.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:42939] logged in with entity id 65507 at (74.06912184911059, 104.0, -488.4625238958464)
+[16Jun2025 05:41:12.092] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@21bea540 into net.minecraft.network.Connection@2b562460
+[16Jun2025 05:41:12.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[16Jun2025 05:41:12.184] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: EMC data size: 25200 bytes
+[16Jun2025 05:41:12.185] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Sent knowledge and bag data to literal{TheForgottenNeo}
+[16Jun2025 05:41:12.186] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of TheForgottenNeo: {disabled=false, disconnected=true, uuid=b5c6629b-2855-3743-a573-3a0212864369, name=TheForgottenNeo, group=null}
+[16Jun2025 05:41:12.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[16Jun2025 05:41:12.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to TheForgottenNeo
+[16Jun2025 05:41:12.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with TheForgottenNeo
+[16Jun2025 05:41:12.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with TheForgottenNeo
+[16Jun2025 05:41:12.347] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[16Jun2025 05:41:12.938] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750052472890
+[16Jun2025 05:41:25.879] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 05:41:26.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[16Jun2025 05:41:26.883] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of TheForgottenNeo to connected: {disabled=false, disconnected=false, uuid=b5c6629b-2855-3743-a573-3a0212864369, name=TheForgottenNeo, group=null}
+[16Jun2025 05:41:26.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[16Jun2025 05:41:26.956] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TheForgottenNeo: {disabled=false, disconnected=false, uuid=b5c6629b-2855-3743-a573-3a0212864369, name=TheForgottenNeo, group=null}
+[16Jun2025 05:42:25.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:42:30.014] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Laira122: {disabled=false, disconnected=false, uuid=91116d11-b61b-3e87-9353-90d47475ae8d, name=Laira122, group=null}
+[16Jun2025 05:42:32.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 05:42:32.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 05:45:12.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to Laira122]
+[16Jun2025 05:45:56.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:46:55.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Summoned new entity.mowziesmobs.solar_beam]
+[16Jun2025 05:47:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 has made the advancement [Called Your Bluff]
+[16Jun2025 05:47:12.862] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[16Jun2025 05:47:12.862] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[16Jun2025 05:47:12.862] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[16Jun2025 05:47:12.862] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[16Jun2025 05:47:12.862] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[16Jun2025 05:47:12.862] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[16Jun2025 05:47:12.863] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[16Jun2025 05:47:12.864] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[16Jun2025 05:47:12.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[16Jun2025 05:47:12.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@4438938e
+[16Jun2025 05:47:12.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[16Jun2025 05:47:12.929] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[16Jun2025 05:47:12.930] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[16Jun2025 05:47:12.935] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23315!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException
+[16Jun2025 05:47:32.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 05:47:32.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 05:47:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryuakachan has completed the challenge [Centennial]
+[16Jun2025 05:48:57.037] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:frozen_peaks took 16 ms
+[16Jun2025 05:48:59.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to 541.500000, 229.000000, -992.500000]
+[16Jun2025 05:49:07.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:49:10.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laira122 has completed the challenge [Centennial]
+[16Jun2025 05:49:29.615] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:frozen_peaks took 5 ms
+[16Jun2025 05:49:52.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! 10.35859868043724,-3.5877966925021667,-0.49269432046673955
+[16Jun2025 05:50:12.793] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:frozen_peaks took 44 ms
+[16Jun2025 05:50:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:50:43.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Clay Island]
+[16Jun2025 05:51:19.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[16Jun2025 05:51:45.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[16Jun2025 05:51:56.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[16Jun2025 05:51:59.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Jun2025 05:52:16.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -10.483828057915389,-0.30562877972599267,1.8151045925039853
+[16Jun2025 05:52:18.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
