@@ -11549,18 +11549,6 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_double_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-06-16 04:25:05 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_corner_pillar_from_pillar": {
-    "criteria": {
-      "hasFramedPillar": "2025-06-16 04:21:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-16 04:09:50 +0000"
@@ -11576,24 +11564,6 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-16 04:09:50 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-06-16 04:25:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-06-16 04:27:57 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_masonry_corner": {
-    "criteria": {
-      "hasFramedSlabEdge": "2025-06-16 04:23:19 +0000"
     },
     "done": true
   },
@@ -11627,9 +11597,21 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+  "create:recipes/building_blocks/cherry_window": {
     "criteria": {
-      "hasFramedStairs": "2025-06-16 04:25:05 +0000"
+      "has_ingredient": "2025-06-16 04:09:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar_from_pillar": {
+    "criteria": {
+      "hasFramedPillar": "2025-06-16 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_masonry_corner": {
+    "criteria": {
+      "hasFramedSlabEdge": "2025-06-16 04:23:19 +0000"
     },
     "done": true
   },
@@ -11639,15 +11621,39 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cherry_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-16 04:09:50 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/building_blocks/framed_divided_slab": {
     "criteria": {
       "hasFramedSlabEdge": "2025-06-16 04:23:19 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-06-16 04:25:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-06-16 04:25:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-06-16 04:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-16 04:27:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-16 05:18:54 +0000"
     },
     "done": true
   },

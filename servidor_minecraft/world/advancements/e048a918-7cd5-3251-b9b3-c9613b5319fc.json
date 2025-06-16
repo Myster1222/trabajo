@@ -131,6 +131,7 @@
       "clover_patch": "2025-06-14 06:19:35 +0000",
       "orchard": "2025-06-14 06:00:39 +0000",
       "lavender_forest": "2025-06-14 06:00:40 +0000",
+      "moor": "2025-06-16 05:16:38 +0000",
       "dryland": "2025-06-14 09:08:34 +0000",
       "wasteland": "2025-06-14 08:50:00 +0000",
       "wasteland_steppe": "2025-06-14 08:57:58 +0000",
@@ -3539,6 +3540,60 @@
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2025-06-14 09:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-16 05:13:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-06-16 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-16 05:19:44 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-06-16 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-16 05:19:44 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-06-16 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-16 05:19:44 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-06-16 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-16 05:17:23 +0000"
     },
     "done": true
   },
